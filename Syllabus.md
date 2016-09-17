@@ -86,4 +86,7 @@ Attendance is mandatory. The attendance policy as outlined in the campus catalog
 Read 
 
 ## Weekly Schedule
-
+Date | Week | Subject | Due
+------------ | ------------- | ------------- | -------------
+August 24 |  |  Horstmann: 1. Introduction | 
+August 26 | 1 |  |
