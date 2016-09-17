@@ -88,5 +88,9 @@ Read
 ## Weekly Schedule
 Date | Week | Subject | Due
 ------------ | ------------- | ------------- | -------------
-August 24 |  |  Horstmann: 1. Introduction | 
-August 26 | 1 |  |
+August 24 | 1 |  Horstmann: 1. Introduction | 
+August 26 |  |  |
+------------ | ------------- | ------------- | -------------
+August 29 | 2 |  Horstmann: 2. Using Objects | 
+August 31 |  |  |
+------------ | ------------- | ------------- | -------------
