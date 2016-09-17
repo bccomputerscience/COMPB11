@@ -2,14 +2,14 @@
 # Fall 2016
 
 ### Eddie Rangel
-Asst. Professor
-Information Technology
-Bakersfield College
+Asst. Professor  
+Information Technology  
+Bakersfield College  
 
 ## Contact Information
-Office: Business 13
-E-Mail: edward.rangel@bakersfieldcollege.edu
-Phone: 
+Office: Business 13  
+E-Mail: edward.rangel@bakersfieldcollege.edu  
+Phone:   
 
 ## Course Information
 Business-11:  
