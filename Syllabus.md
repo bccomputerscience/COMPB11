@@ -1,4 +1,20 @@
 # COMP B11 - Programming Concepts and Methodology I
+# Fall 2016
+
+### Eddie Rangel
+Asst. Professor  
+Information Technology  
+Bakersfield College  
+
+## Contact Information
+Office: Business 13  
+E-Mail: edward.rangel@bakersfieldcollege.edu  
+Phone:   
+
+## Course Information
+Business-11:  
+Tuesday 8:00am - 9:25am      
+Thursday 8:00 - 9:25am  
 
 ## Course Description
 This course is an introduction to the discipline of computer science, with a focus on the 
@@ -38,3 +54,36 @@ Understand and use variables and types
 * Demonstrate different forms of binding, visibility, scoping, and lifetime management. 
 * Defend the importance of types and type-checking in providing abstraction and safety. 
 * Design and implement user-defined types, using Object-Oriented principles.
+
+## Textbook
+
+### Required:
+•	Java Concepts (Early Objects) (8th edition) by Cay S. Horstmann, ISBN: 9781119056454
+•	BC Email Address
+•	Flash Drive
+### Optional:
+The Java Tutorial URL: https://docs.oracle.com/javase/tutorial/
+
+## Accommodations 
+Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs & Services at (661) 395-4334, (on-campus located at Student Services Building, 1st Floor, Counseling Center), as soon as possible to better ensure such accommodations are implemented in a timely fashion.
+
+## Equity and Inclusion
+Bakersfield College is committed to creating and fostering a positive, safe and conducive learning environment based on open communication where diversity, equity, and inclusion are recognized, valued and inform thoughtful decision-making and action. BC embraces individual difference and expects all employees and students to respect these differences and accept an understanding that individuals have unique perspectives, behaviors, and worldviews that may be different from their own.
+
+## Course Policies  
+Each student in this course will abide by the Academic Honesty Policy described in the Academic Information and Standards section of the Bakersfield College Catalog.
+Collaboration in class while working on assignments is encouraged. Various projects in class will require group work. Students who do not participate equally with others on assigned group projects will receive a grade of zero.
+Please be sensitive to the learning environment and the needs of each and every student in class. Avoid causing distractions or engaging in non-class activity. Turn cells phones off before class starts and respond only after class ends. Unless it is an emergency, do not leave class to answer the phone and do not text message. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices are not to be used in class for non-class related activities. 
+
+## Attendance
+Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
+
+## Assignments, Quizzes and Exams
+
+## Exams, Assignments, and Late Policy 
+
+## Extra Credit
+Read 
+
+## Weekly Schedule
+
