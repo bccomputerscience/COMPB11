@@ -12,9 +12,9 @@ E-Mail: edward.rangel@bakersfieldcollege.edu
 Phone: 
 
 ## Course Information
-Business-11:
-Tuesday 8:00am - 9:25am    
-Thursday 8:00 - 9:25am
+Business-11:  
+Tuesday 8:00am - 9:25am      
+Thursday 8:00 - 9:25am  
 
 ## Course Descrition
 This course is an introduction to the discipline of computer science, with a focus on the 
