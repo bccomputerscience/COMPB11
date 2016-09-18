@@ -88,26 +88,29 @@ Read
 ## Weekly Schedule
 Date | Week | Subject | Notes | Assign/Due
 ------------ | ------------- | ------------- | ------------- | -------------
-August 24 | 1 |  Horstmann: 1. Introduction | |
-August 26 |  |  | |
-August 29 | 2 |  Horstmann: 2. Using Objects | | 
-August 31 |  |  | |
-September 4 | 3 |  Labor Day – Campus Closed | | 
-September 5 |  | Last day to withdraw and not have a W show on your transcript | |
-September 7 |  |  | | Program Assignment One 
-September 5 | 4 |  | |
-September 5 |  |  | |
-September 4 | 5 |  Horstmann: 3. Implementing Classes | | 
-September 5 |  |  | |
-September 4 | 6 |  Horstmann: 3. Implementing Classes | | 
-September 5 |  |  | |
-September 4 | 7 |  Horstmann: 3. Implementing Classes | | 
-September 5 |  |  | |
-September 4 | 8 |  Horstmann: 3. Implementing Classes | | 
-September 5 |  |  | |
-September 4 | 9 |  Horstmann: 3. Implementing Classes | | 
-September 5 |  |  | |
-September 4 | 10 |  Horstmann: 3. Implementing Classes | | 
+Aug 24 | 1 |  Horstmann: 1. Introduction | |
+Aug 26 |  |  | |
+Aug 29 | 2 |  Horstmann: 2. Using Objects | | 
+Aug 31 |  |  | |
+Sept 4 | 3 |  Labor Day – Campus Closed | | 
+Sept 5 |  | Last day to withdraw and not have a W show on your transcript | |
+Sept 7 |  |  | | Program Assignment One 
+Sept 12 | 4 | Horstmann: 3. Implementing Classes | |
+Sept 14 |  |  |  | Quiz One
+Sept 19 | 5 |  |  | Program Assignment Two 
+Sept 21 |  | Horstmann: 4. Fundamental Data Types | |
+Sept 26 | 6 |  |  |
+Sept 28 |  |  |  | 
+Oct 3 | 7 | Horstmann: 5. Decisions | |
+Oct 5 |  |  | | 
+Oct 10 |  |  | |
+Oct 12 | 8 |  Horstmann: 3. Implementing Classes | | 
+Oct 17 |  |  | |
+Oct 19 | 9 |  Horstmann: 3. Implementing Classes | | 
+Oct 21 |  |  | |
+Oct 24 |  |  | |
+Oct 31 | 10 |  Horstmann: 3. Implementing Classes | | 
+Oct 24 |  |  | |
 September 5 |  |  | |
 September 4 | 11 |  Horstmann: 3. Implementing Classes | | 
 September 5 |  |  | |
