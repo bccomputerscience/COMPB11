@@ -1,5 +1,5 @@
 # COMP B11 - Programming Concepts and Methodology I
-# Fall 2016
+## Fall 2016 CRN: 70546
 
 ### Eddie Rangel
 Asst. Professor  
@@ -10,6 +10,7 @@ Bakersfield College
 Office: Business 13  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
+web: courses.eddierangel.com/bc  
 
 ## Course Information
 Business-11:  
