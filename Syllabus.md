@@ -118,7 +118,14 @@ You may always arrange to turn in assignments or take exams in advance of the sc
 
 
 ## Extra Credit
-Read 
+Go to a Library Workshop (5 pts)
+https://www.bakersfieldcollege.edu/library/workshop-schedule
+* Maximum of two workshops per semester course
+
+## Habits of Mind
+Many free resources exist at BC to help you accomplish your goals. For great information on developing new 
+habits for success visit www.bakersfieldcollege.edu/habits-of-mind.
+
 
 ## Weekly Schedule
 Date | Week | Subject | Notes | Assign/Due
