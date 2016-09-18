@@ -143,16 +143,16 @@ Oct 11 | 8 |  | | Homework 5
 Oct 13 |  |  Midterm Exam | | 
 Oct 18 | 9 | Horstmann: 6. Loops | |
 Oct 20 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 25 | 10 |  | | Homework 6 
-Oct 27 |  | Horstmann: 7. Arrays and Array Lists | | 
-Nov 1 | 11 |  | | Homework 7 
-Nov 6 | |  Horstmann: 8. Designing Classes | | 
-Nov 8 | 12 |  | | Homework 8
-Nov 10 | | Horstmann: 8. Designing Classes Continued | | 
-Nov 15 | 13  |  | | Homework 9
-Nov 27 | | Horstmann: 9. Inheritance | | 
-Nov 22 | 14 |  | |
-Nov 24 | |  Horstmann: 3. Implementing Classes | | Homework 10
+Oct 25 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 
+Oct 27 |  | | | 
+Nov 1 | 11 | Horstmann: 8. Designing Classes | | Homework 7 
+Nov 6 | | | | 
+Nov 8 | 12 | Horstmann: 8. Designing Classes Continued | | Homework 8
+Nov 10 | | | | 
+Nov 15 | 13  | Horstmann: 9. Inheritance | | Homework 9
+Nov 27 | | | | 
+Nov 22 | 14 | Horstmann: 3. Implementing Classes | |
+Nov 24 | | | | Homework 10
 Nov 30 |  | Review for final | |
 Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | | 
 
