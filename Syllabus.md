@@ -94,30 +94,30 @@ Aug 29 | 2 |  Horstmann: 2. Using Objects | |
 Aug 31 |  |  | |
 Sept 4 | 3 |  Labor Day – Campus Closed | | 
 Sept 5 |  | Last day to withdraw and not have a W show on your transcript | |
-Sept 7 |  |  | | Program Assignment 1 
+Sept 7 |  |  | | Homework 1 
 Sept 12 | 4 | Horstmann: 3. Implementing Classes | |
 Sept 14 |  |  |  | Quiz One
-Sept 19 | 5 |  |  | Program Assignment 2 
+Sept 19 | 5 |  |  | Homework 2 
 Sept 21 |  | Horstmann: 4. Fundamental Data Types | |
-Sept 26 | 6 |  |  | Program Assignment 3
+Sept 26 | 6 |  |  | Homework 3
 Sept 28 |  |  |  | 
-Oct 3 | 7 | Horstmann: 5. Decisions | | Program Assignment 4 
+Oct 3 | 7 | Horstmann: 5. Decisions | | Homework 4 
 Oct 5 |  |  | | 
-Oct 10 | 8 |  | | Program Assignment 5 
+Oct 10 | 8 |  | | Homework 5 
 Oct 12 |  |  Midterm Exam | | 
 Oct 17 | 9 | Horstmann: 6. Loops | |
 Oct 19 |  |  | | 
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 24 | 10 |  | | Program Assignment 6 
+Oct 24 | 10 |  | | Homework 6 
 Oct 26 |  | Horstmann: 7. Arrays and Array Lists | | 
 Oct 31 | 11 |  | |
-Nov 2 |  |  | | Program Assignment 7 
+Nov 2 |  |  | | Homework 7 
 Nov 7 | 11 |  Horstmann: 8. Designing Classes | | 
-Nov 9 |  |  | | Program Assignment 8
+Nov 9 |  |  | | Homework 8
 Nov 14 | 12 | Horstmann: 8. Designing Classes Continued | | 
-Nov 16 |  |  | | Program Assignment 9
+Nov 16 |  |  | | Homework 9
 Nov 21 | 13 | Horstmann: 9. Inheritance | | 
 Nov 23 |  |  | |
-Nov 28 | 14 |  Horstmann: 3. Implementing Classes | | Program Assignment 10
+Nov 28 | 14 |  Horstmann: 3. Implementing Classes | | Homework 10
 Nov 30 |  | Review for final | |
 Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | | 
