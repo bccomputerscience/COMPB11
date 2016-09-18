@@ -8,9 +8,11 @@ public class typesizes
     {
         int anInt = 0;
         double aDouble = 0.0;
-        float aFloat = 0.0f;
+        float aFloat = 0.0f; 
+        char aChar = 'A';
 
         System.out.println("The size of an int: " + Integer.BYTES);
+        System.out.println("The size of an char: " + Character.BYTES);
         System.out.println("The size of a double: " + Double.BYTES);
         System.out.println("The size of a float: " + Float.BYTES);
 
