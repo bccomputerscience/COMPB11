@@ -132,13 +132,13 @@ Sept 5 |  | Last day to withdraw and not have a W show on your transcript | |
 Sept 6 |  |  | | Homework 1 
 Sept 8 | | Horstmann: 3. Implementing Classes | |
 Sept 13 | 4  |  |  | Quiz One
-Sept 15 | |  |  | Homework 2 
-Sept 20 | 5 | Horstmann: 4. Fundamental Data Types | |
-Sept 22 |  |  |  | Homework 3
-Sept 27 | 6 |  |  | 
-Sept 29 |  | Horstmann: 5. Decisions | | Homework 4 
+Sept 15 | |  |  |
+Sept 20 | 5 | Horstmann: 4. Fundamental Data Types | | 
+Sept 22 |  |  |  | Homework 2
+Sept 27 | 6 | Horstmann: 5. Decisions |  | 
+Sept 29 |  |  | | Homework 3 
 Oct 4 | 7 |  | |
-Oct 6 | |  | | 
+Oct 6 | |  | |  Homework 4
 Oct 11 | 8 |  | | Homework 5 
 Oct 13 |  |  Midterm Exam | | 
 Oct 18 | 9 | Horstmann: 6. Loops | |
