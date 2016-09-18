@@ -59,7 +59,7 @@ Understand and use variables and types
 
 ### Required:
 •	Java Concepts (Early Objects) (8th edition) by Cay S. Horstmann, ISBN: 9781119056454
-•	BC Email Address
+•	BC Email Address 
 •	Flash Drive
 ### Optional:
 The Java Tutorial URL: https://docs.oracle.com/javase/tutorial/
@@ -80,7 +80,27 @@ Attendance is mandatory. The attendance policy as outlined in the campus catalog
 
 ## Assignments, Quizzes and Exams
 
+Assignment | Points
+------------ | -------------
+Project | 50
+Pop Quizzes (5 @ 10 pts) | 50
+Midterm | 50
+Programming Assignments (10 @ 25 points each) | 250
+Final Exam | 100
+
+Range (%) | grade 
+------------ | -------------
+90 >= | A
+80 >= | B
+70 >= | C
+60 >= | D
+60 >= | F
+
+
 ## Exams, Assignments, and Late Policy 
+MAKE-UP EXAMS OR QUIZZES WILL NOT BE GIVEN AND LATE ASSIGNMENTS WILL NOT BE ACCEPTED. Assignments are due at the BEGINNING of the class session. 
+You may always arrange to turn in assignments or take exams in advance of the scheduled times. Exams and quizzes will be timed. You will not be given extra time to complete the exam or quiz if you start late. 
+
 
 ## Extra Credit
 Read 
