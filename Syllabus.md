@@ -86,12 +86,38 @@ Attendance is mandatory. The attendance policy as outlined in the campus catalog
 Read 
 
 ## Weekly Schedule
-Date | Week | Subject | Due
------------- | ------------- | ------------- | -------------
-August 24 | 1 |  Horstmann: 1. Introduction | 
-August 26 |  |  |
-August 29 | 2 |  Horstmann: 2. Using Objects | 
-August 31 |  |  |
-September 4 | 3 |  Horstmann: 3. Implementing Classes | 
-September 5 |  |  |
+Date | Week | Subject | Notes | Assign/Due
+------------ | ------------- | ------------- | ------------- | -------------
+August 24 | 1 |  Horstmann: 1. Introduction | |
+August 26 |  |  | |
+August 29 | 2 |  Horstmann: 2. Using Objects | | 
+August 31 |  |  | |
+September 4 | 3 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 4 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 5 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 6 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 7 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 8 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 9 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 10 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 11 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 12 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 13 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 14 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 15 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
+September 4 | 16 |  Horstmann: 3. Implementing Classes | | 
+September 5 |  |  | |
 
