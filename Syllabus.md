@@ -139,8 +139,8 @@ Sept 27 | 6 | Horstmann: 5. Decisions |  |
 Sept 29 |  |  | | Homework 3 
 Oct 4 | 7 |  | |
 Oct 6 | |  | |  Homework 4
-Oct 11 | 8 |  | | Homework 5 
-Oct 13 |  |  Midterm Exam | | 
+Oct 11 | 8 |  | | 
+Oct 13 |  |  Midterm Exam | | Homework 5  
 Oct 18 | 9 | Horstmann: 6. Loops | |
 Oct 20 |  | Last day to withdraw and have a W show on your transcript | |
 Oct 25 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 
