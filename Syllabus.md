@@ -92,9 +92,10 @@ August 24 | 1 |  Horstmann: 1. Introduction | |
 August 26 |  |  | |
 August 29 | 2 |  Horstmann: 2. Using Objects | | 
 August 31 |  |  | |
-September 4 | 3 |  Horstmann: 3. Implementing Classes | | 
-September 5 |  |  | |
-September 4 | 4 |  Horstmann: 3. Implementing Classes | | 
+September 4 | 3 |  Labor Day – Campus Closed | | 
+September 5 |  | Last day to withdraw and not have a W show on your transcript | |
+September 7 |  |  | | Program Assignment One 
+September 5 | 4 |  | |
 September 5 |  |  | |
 September 4 | 5 |  Horstmann: 3. Implementing Classes | | 
 September 5 |  |  | |
