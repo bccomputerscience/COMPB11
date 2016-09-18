@@ -124,7 +124,7 @@ Go to a BC Library Workshop (5 pts)
 
 ## Habits of Mind
 Many free resources exist at BC to help you accomplish your goals. For great information on developing new 
-habits for success visit www.bakersfieldcollege.edu/habits-of-mind.
+habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-mind).
 
 
 ## Weekly Schedule
