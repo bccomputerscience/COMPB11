@@ -110,6 +110,7 @@ Range (%) | grade
 70 >= | C
 60 >= | D
 60 >= | F
+* Grading is not curved.  89.99999 is a B.
 
 
 ## Exams, Assignments, and Late Policy 
