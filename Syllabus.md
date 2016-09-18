@@ -58,9 +58,10 @@ Understand and use variables and types
 ## Textbook
 
 ### Required:
-•	Java Concepts (Early Objects) (8th edition) by Cay S. Horstmann, ISBN: 9781119056454
-•	BC Email Address 
-•	Flash Drive
+* Java Concepts (Early Objects) (8th edition) by Cay S. Horstmann, ISBN: 9781119056454  
+* BC Email Address   
+* Flash Drive
+  
 ### Optional:
 The Java Tutorial URL: https://docs.oracle.com/javase/tutorial/
 
