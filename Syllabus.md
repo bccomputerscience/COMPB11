@@ -9,7 +9,7 @@ Bakersfield College
 ## Contact Information
 Office: Business 13  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
-Phone:   
+Phone: (661) 395-4879   
 
 ## Course Information
 Business-11:  
@@ -61,7 +61,7 @@ Understand and use variables and types
 * Java Concepts (Early Objects) (8th edition) by Cay S. Horstmann, ISBN: 9781119056454  
 * BC Email Address   
 * Flash Drive
-  
+
 ### Optional:
 The Java Tutorial URL: https://docs.oracle.com/javase/tutorial/
 
