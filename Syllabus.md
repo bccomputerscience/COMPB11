@@ -17,6 +17,19 @@ Business-11:
 Tuesday 8:00am - 9:25am      
 Thursday 8:00 - 9:25am  
 
+
+## Office Hours
+Office: Business 13
+
+Day | Time
+------------ | -------------
+Monday | 11:30am – 12:30pm
+Tuesday | 1:00pm – 2:00pm
+Wednesday | 11:30am – 12:30pm
+Thursday | 1:00pm – 2:00pm
+  | 4:30pm – 5:30pm
+* If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
+
 ## Course Description
 This course is an introduction to the discipline of computer science, with a focus on the 
 design and implementation of algorithms to solve simple problems using a high-level programming 
