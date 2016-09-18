@@ -90,7 +90,8 @@ Date | Week | Subject | Due
 ------------ | ------------- | ------------- | -------------
 August 24 | 1 |  Horstmann: 1. Introduction | 
 August 26 |  |  |
------------- | ------------- | ------------- | -------------
 August 29 | 2 |  Horstmann: 2. Using Objects | 
 August 31 |  |  |
------------- | ------------- | ------------- | -------------
+September 4 | 3 |  Horstmann: 3. Implementing Classes | 
+September 5 |  |  |
+
