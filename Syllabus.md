@@ -100,28 +100,24 @@ Sept 14 |  |  |  | Quiz One
 Sept 19 | 5 |  |  | Program Assignment Two 
 Sept 21 |  | Horstmann: 4. Fundamental Data Types | |
 Sept 26 | 6 |  |  |
-Sept 28 |  |  |  | 
+Sept 28 |  |  |  | Program Assignment Two 
 Oct 3 | 7 | Horstmann: 5. Decisions | |
 Oct 5 |  |  | | 
-Oct 10 |  |  | |
-Oct 12 | 8 |  Horstmann: 3. Implementing Classes | | 
-Oct 17 |  |  | |
-Oct 19 | 9 |  Horstmann: 3. Implementing Classes | | 
-Oct 21 |  |  | |
-Oct 24 |  |  | |
-Oct 31 | 10 |  Horstmann: 3. Implementing Classes | | 
-Oct 24 |  |  | |
-September 5 |  |  | |
-September 4 | 11 |  Horstmann: 3. Implementing Classes | | 
-September 5 |  |  | |
-September 4 | 12 |  Horstmann: 3. Implementing Classes | | 
-September 5 |  |  | |
-September 4 | 13 |  Horstmann: 3. Implementing Classes | | 
-September 5 |  |  | |
-September 4 | 14 |  Horstmann: 3. Implementing Classes | | 
-September 5 |  |  | |
-September 4 | 15 |  Horstmann: 3. Implementing Classes | | 
-September 5 |  |  | |
-September 4 | 16 |  Horstmann: 3. Implementing Classes | | 
-September 5 |  |  | |
-
+Oct 10 | 8 |  | | Program Assignment Two 
+Oct 12 |  |  Midterm Exam | | 
+Oct 17 | 9 | Horstmann: 6. Loops | |
+Oct 19 |  |  | | 
+Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
+Oct 24 | 10 |  | | Program Assignment Two 
+Oct 26 |  | Horstmann: 7. Arrays and Array Lists | | 
+Oct 31 | 11 |  | |
+Nov 2 |  |  | | Program Assignment Two 
+Nov 7 | 11 |  Horstmann: 8. Designing Classes | | 
+Nov 9 |  |  | | Program Assignment Eight
+Nov 14 | 12 | Horstmann: 8. Designing Classes Continued | | 
+Nov 16 |  |  | | Program Assignment Nine
+Nov 21 | 13 | Horstmann: 9. Inheritance | | 
+Nov 23 |  |  | |
+Nov 28 | 14 |  Horstmann: 3. Implementing Classes | | Program Assignment Ten
+Nov 30 |  | Review for final | |
+Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | | 
