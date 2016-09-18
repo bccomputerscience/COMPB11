@@ -75,9 +75,8 @@ Understand and use variables and types
 * Java Concepts (Early Objects) (8th edition) by Cay S. Horstmann, ISBN: 9781119056454  
 * BC Email Address   
 * Flash Drive
-
-### Optional:
-The Java Tutorial URL: https://docs.oracle.com/javase/tutorial/
+* The Java Tutorial 
+    * URL: https://docs.oracle.com/javase/tutorial/
 
 ## Accommodations 
 Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs & Services at (661) 395-4334, (on-campus located at Student Services Building, 1st Floor, Counseling Center), as soon as possible to better ensure such accommodations are implemented in a timely fashion.
