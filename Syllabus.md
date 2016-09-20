@@ -99,7 +99,8 @@ Assignment | Points
 Project | 50
 Pop Quizzes (5 @ 10 pts) | 50
 Midterm | 50
-Programming Assignments (10 @ 25 points each) | 250
+Programming Assignments (10 @ 20 points each) | 200
+Chapter Reviews (5 @ 10 pts) | 
 Final Exam | 100
 
 Range (%) | grade 
