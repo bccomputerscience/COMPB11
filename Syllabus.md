@@ -10,10 +10,10 @@ Bakersfield College
 Office: Business 13  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
-web: courses.eddierangel.com/bc  
+web: http://courses.eddierangel.com/bc  
 
 ## Course Information
-Room: Business-11:  
+Building/Room: Business 11   
 Tuesday 8:00am - 9:25am      
 Thursday 8:00 - 9:25am  
 
