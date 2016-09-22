@@ -1,16 +1,15 @@
 ## Chapter Reviews
 
-### Chapter 1 Review Exercises
-Pg. 24 1 - 10
+### Chapter 1 Self Check Exercises
 
-### Chapter 2 Review Exercises
-Pg. 70 1 - 10
+### Chapter 2 Self Check Exercises
 
-### Chapter 3 Review Exercises
-Pg. 119 1 - 10
+### Chapter 3 Self Check Exercises
+Pg. 84 1 - 5
+Pg. 90 6 - 10
 
-### Chapter 4 Review Exercises
-Pg. 163 1 - 10
 
-### Chapter 5 Review Exercises
-Pg. 219 1 - 10
+### Chapter 4 Self Check Exercises
+
+
+### Chapter 5 Self Check Exercises
