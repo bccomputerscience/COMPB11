@@ -10,9 +10,10 @@ public class NestedLoop
     {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Please enter an integer value: ");
+        System.out.print("Please enter an integer value: ");
         int value = input.nextInt();
-
+        System.out.print("\n");
+        
         for(int i = 0; i < value; i++)
         {
             for(int j = 0; j < value; j++)
