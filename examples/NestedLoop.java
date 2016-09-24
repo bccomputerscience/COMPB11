@@ -1,5 +1,6 @@
 /*
     An example of nexted loops
+    create a nxn block
 */
 
 import java.util.Scanner;
@@ -13,7 +14,7 @@ public class NestedLoop
         System.out.print("Please enter an integer value: ");
         int value = input.nextInt();
         System.out.print("\n");
-        
+
         for(int i = 0; i < value; i++)
         {
             for(int j = 0; j < value; j++)
