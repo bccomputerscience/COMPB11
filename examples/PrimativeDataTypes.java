@@ -64,8 +64,8 @@ public class PrimativeDataTypes
         int binVal = 0b11010;
         System.out.println();
         System.out.printf("Decimal 26: %d\n",decVal);
-        System.out.printf("Hex 26: %x\d",hexVal);
-        System.out.printf("Binary 26: %d\n", binVal;
+        System.out.printf("Hex 26: %d\n",hexVal);
+        System.out.printf("Binary 26: %d\n", binVal);
 
         double d1 = 123.4;
         // same value as d1, but in scientific notation
