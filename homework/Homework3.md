@@ -17,7 +17,7 @@ is normally left aligned and numeric data is normally right aligned.
 
 
 
-### Due 10/3 before 8am
+### Due 10/4 before 8am
 
-Sumbit homework3.java to canvas under Homework 3 by 7:59 am on October 3.
+Sumbit homework3.java to canvas under Homework 3 by 7:59 am on October 4.
 
