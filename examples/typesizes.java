@@ -5,12 +5,7 @@
 public class typesizes
 {
     public static void main(String[] args)
-    {
-        int anInt = 0;
-        double aDouble = 0.0;
-        float aFloat = 0.0f; 
-        char aChar = 'A';
-
+    {        
         System.out.println("The size of an int: " + Integer.BYTES);
         System.out.println("The size of an char: " + Character.BYTES);
         System.out.println("The size of a double: " + Double.BYTES);
