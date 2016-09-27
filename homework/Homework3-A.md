@@ -1,6 +1,6 @@
 ## Homework 3-A
 
-Write a program (homework3.java) that reports the data type sizes sued by the Java programming langauge and the Java Virtual Machine. 
+Write a program (homework3.java) that reports the data type sizes used by the Java programming langauge and the Java Virtual Machine. 
 It should report the size (in bytes) of char, byte, short, int, long,float, and double. Your output should be in easy to read tabular
 format similar to the following:
 
