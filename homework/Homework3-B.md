@@ -7,7 +7,7 @@ Conside the following line of code:
 ```
 
 What is the value displayed by the expression savannah.lenght() ?  
-What is the value displayed by the method call hannah.charAt(10) ?  
+What is the value displayed by the method call savannah.charAt(10) ?  
 Write an expression that refers to the letter b in the string referred to by savannah.  
 
 
