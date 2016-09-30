@@ -6,7 +6,7 @@ Conside the following line of code:
     String savannah = "Does Savannah see any bees? Savannah did."
 ```
 
-What is the value displayed by the expression savannah.lenght() ?  
+What is the value displayed by the expression savannah.length() ?  
 What is the value displayed by the method call savannah.charAt(10) ?  
 Write an expression that refers to the letter b in the string referred to by savannah.  
 
