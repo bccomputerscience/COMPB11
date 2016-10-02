@@ -97,11 +97,12 @@ Attendance is mandatory. The attendance policy as outlined in the campus catalog
 Assignment | Points
 ------------ | -------------
 Project | 50
-Pop Quizzes (5 @ 10 pts) | 50
 Midterm | 50
 Programming Assignments (10 @ 20 points each) | 200
-Chapter Reviews (5 @ 10 pts) | 
+Chapter Reviews (5 @ 10 pts) | 50
+Pop Quizzes (5 @ 10 pts) | 50 
 Final Exam | 100
+**TOTAL** | 500
 
 Range (%) | grade 
 ------------ | -------------
@@ -114,8 +115,8 @@ Range (%) | grade
 
 
 ## Exams, Assignments, and Late Policy 
-MAKE-UP EXAMS OR QUIZZES WILL NOT BE GIVEN AND LATE ASSIGNMENTS WILL NOT BE ACCEPTED. Assignments are due at the BEGINNING of the class session. 
-You may always arrange to turn in assignments or take exams in advance of the scheduled times. Exams and quizzes will be timed. You will not be given extra time to complete the exam or quiz if you start late. 
+Mak-up exams or quizzes will not be given and late assignments will not be accepted. Assignments are due at the beginning of the class session. 
+You may always arrange to turn in assignments or take exams in advance of the scheduled times. Exams and quizzes will be timed. You will not be given extra time to complete the exam or quiz if you start late.
 
 
 ## Extra Credit
@@ -148,7 +149,7 @@ Sept 29 |  |  | | Homework 3
 Oct 4 | 7 |  | |
 Oct 6 | |  | |  Homework 4
 Oct 11 | 8 |  | | 
-Oct 13 |  |  Midterm Exam | | Homework 5  
+Oct 13 |  |  Midterm Exam | | Homework 5  Chapter Reviews Due 1 - 5
 Oct 18 | 9 | Horstmann: 6. Loops | |
 Oct 20 | 9 | Horstmann: 6. Loops | |
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
@@ -162,7 +163,7 @@ Nov 15 | 13  | Horstmann: 9. Inheritance | | Homework 9
 Nov 27 | | | | 
 Nov 22 | 14 | Horstmann: 3. Implementing Classes | |
 Nov 24 | | | | Homework 10
-Nov 30 |  | Review for final | |
+Nov 30 |  | Review for final | | Chapter Reviews Due 6 - 9
 Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | | 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
