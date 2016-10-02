@@ -145,8 +145,8 @@ Sept 15 | |  |  |
 Sept 20 | 5 | Horstmann: 4. Fundamental Data Types | | 
 Sept 22 |  |  |  | Homework 2
 Sept 27 | 6 | Horstmann: 5. Decisions |  | 
-Sept 29 |  |  | | Homework 3 
-Oct 4 | 7 |  | |
+Sept 29 |  |  | | 
+Oct 4 | 7 |  | | Homework 3 due
 Oct 6 | |  | |  Homework 4
 Oct 11 | 8 |  | | 
 Oct 13 |  |  Midterm Exam | | Homework 5  Chapter Reviews Due 1 - 5
