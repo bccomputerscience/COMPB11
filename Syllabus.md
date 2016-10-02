@@ -102,7 +102,7 @@ Programming Assignments (10 @ 20 points each) | 200
 Chapter Reviews (5 @ 10 pts) | 50
 Pop Quizzes (5 @ 10 pts) | 50 
 Final Exam | 100
-**TOTAL** | 500
+**TOTAL** | **500**
 
 Range (%) | grade 
 ------------ | -------------
