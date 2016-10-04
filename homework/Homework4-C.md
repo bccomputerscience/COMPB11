@@ -29,6 +29,12 @@ public static char determineGrade(double score)
 }
 ```
 
+When you create your table, you can pass in your determineGrade method inside of your printf statements.
+
+```java
+System.out.printf("My grade is: ", determineGrade(score1));
+```
+
 Note: To create the table, use field widths with left and right alignment in your printf format strings. Also, note that character data
 is normally left aligned and numeric data is normally right aligned.
 
