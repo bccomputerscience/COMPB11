@@ -4,7 +4,7 @@ Write a program, (homework4.java) that prompts for an employee name, a 3 digit e
 and the number of hours worked in a week.
 
 Computer their weekl pay. Be sure to compute any over time earned. Overtime should be computed as 150%
-of their normal hourly rate. Then print out a paystub displaying their weekly wages.
+of their hourly rate. Then print out a paystub displaying their weekly wages.
 
 Your output should be similar to the following.
 
