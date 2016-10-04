@@ -1,4 +1,4 @@
-## Homework 3-A
+## Homework 4-A
 
 Write a program, (homework4.java) that prompts for an employee name, a 3 digit employee ID, their hourly rate, 
 and the number of hours worked in a week.
