@@ -145,13 +145,13 @@ Sept 15 | |  |  |
 Sept 20 | 5 | Horstmann: 4. Fundamental Data Types | | 
 Sept 22 |  |  |  | Homework 2
 Sept 27 | 6 | Horstmann: 5. Decisions |  | 
-Sept 29 |  |  | | 
-Oct 4 | 7 |  | | Homework 3 due
-Oct 6 | |  | |  Homework 4
-Oct 11 | 8 |  | | 
+Sept 29 |  | | | 
+Oct 4 | 7 | Java Tutorial [Control Statements](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  | | Homework 3 due
+Oct 6 | |  | |
+Oct 11 | 8 | Horstmann: 6. Loops | | Homework 4 due
 Oct 13 |  |  Midterm Exam | | Homework 5  Chapter Reviews Due 1 - 5
-Oct 18 | 9 | Horstmann: 6. Loops | |
-Oct 20 | 9 | Horstmann: 6. Loops | |
+Oct 18 | 9 | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) | |
+Oct 20 | |  | |
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
 Oct 25 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 
 Oct 27 |  | | | 
