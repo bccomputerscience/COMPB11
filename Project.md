@@ -13,5 +13,5 @@ As a professor, I would like to assign grades for a class assignment.
 This can be a console based or gui based program. Higher points will go toward a well presented 
 console based application than a sparsely featured graphical application.
 
-We will define a set of tests that will help us determine the completeness of our appilcation.
+We will define a set of tests that will help us determine the completeness of our application.
 This will be done during User Acceptance Testing. 
