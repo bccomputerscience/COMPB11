@@ -1,6 +1,6 @@
 ## Homework 3-B
 
-Conside the following line of code:  
+Consider the following line of code:  
 
 ```java
     String savannah = "Does Savannah see any bees? Savannah did."
