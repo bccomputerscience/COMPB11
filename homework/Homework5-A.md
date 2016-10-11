@@ -2,8 +2,9 @@
 
 Write a program called homework5.java
 
-Exercise E6.5 on page 295. Complete the program that is on page 272 of your text book. 
-Work through the promblem 'How to 6.1' and continue it through completeion. 
+Exercise E6.5 on page 295.   
+Complete the program that is on page 272 of your text book. Work through the promblem 'How to 6.1' and 
+continue it through completion. 
 
 
 

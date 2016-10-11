@@ -17,5 +17,5 @@ Pg. 183 1 - 5
 Pg. 192 6 - 10
 
 ### Chapter 6 Self Check Exercises
-Pg. 242 1 - 5
-Pg. 248-249 6 - 10
+Pg. 242 1 - 5  
+Pg. 248-249 6 - 10  
