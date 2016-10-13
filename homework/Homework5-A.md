@@ -10,5 +10,5 @@ continue it through completion.
 
 ### Due 10/18 before 8am
 
-Sumbit homework5.java to canvas under Homework 5 by 7:59 am on October 4.
+Sumbit homework5.java to canvas under Homework 5 by 7:59 am on October 18.
 
