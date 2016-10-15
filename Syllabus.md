@@ -150,16 +150,16 @@ Oct 4 | 7 | Java Tutorial [Control Statements](http://docs.oracle.com/javase/tut
 Oct 6 | |  | |
 Oct 11 | 8 | Horstmann: 6. Loops | | Homework 4 due
 Oct 13 |  |  Midterm Exam | | Homework 5  Chapter Reviews Due 1 - 5
-Oct 18 | 9 | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) | |
-Oct 20 | |  | |
+Oct 18 | 9 | Horstmann: 7. Arrays and Array Lists | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) |
+Oct 20 | | Ch. 11 I/O and Exceptions | |
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 25 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 
-Oct 27 |  | | | 
-Nov 1 | 11 | Horstmann: 8. Designing Classes | | Homework 7 
+Oct 25 | 10 | Horstmann: 8. Designing Classes  | | Homework 6 
+Oct 27 | Horstmann: 9. Inheritance | | | 
+Nov 1 | 11 | | | Homework 7 
 Nov 6 | | | | 
 Nov 8 | 12 | Horstmann: 8. Designing Classes Continued | | Homework 8
 Nov 10 | | | | 
-Nov 15 | 13  | Horstmann: 9. Inheritance | | Homework 9
+Nov 15 | 13  |  | | Homework 9
 Nov 27 | | | | 
 Nov 22 | 14 | Horstmann: 3. Implementing Classes | |
 Nov 24 | | | | Homework 10
