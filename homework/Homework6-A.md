@@ -6,7 +6,7 @@ The purpose of this assignment is to declare, call, and define function definiti
 based program that will mulitpy, divide, and perform the power function on two values that will be input.
 
 ```console
-  Welcome to the COMP 11 Homework 7-A Menu
+  Welcome to the COMP 11 Homework 6-A Menu
   ====================================
   1.  Multiply two integers
   2.  Divide two integers
