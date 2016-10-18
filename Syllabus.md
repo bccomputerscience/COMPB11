@@ -152,7 +152,7 @@ Oct 6 | |  | |
 Oct 11 | 8 | Horstmann: 6. Loops | | Homework 4 due
 Oct 13 |  |  Midterm Exam | | Homework 5  Chapter Reviews Due 1 - 5
 Oct 18 | 9 | | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) |
-Oct 20 | | Ch. 11 Input/Output | |
+Oct 20 | | Ch. 20 Input/Output Streams | |
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
 Oct 25 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 
 Oct 27 | | | | 
