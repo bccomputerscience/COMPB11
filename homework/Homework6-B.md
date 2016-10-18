@@ -18,11 +18,11 @@ Your program should be identical to 6-A except that it should invoke ipow, inste
 ### Expected Output
 
 ```console
-The reslut of raising 2 to the power of 4 is 16
+The result of raising 2 to the power of 4 is 16
 ```
  
+ Your output can vary a bit from this. 
  
-
 ### Due 10/18 before 8am
 
 Sumbit homework5.java to canvas under Homework 5 by 7:59 am on October 18.

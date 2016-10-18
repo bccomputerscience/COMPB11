@@ -25,8 +25,10 @@ statment's cases.
 ### Expected Output
 
 ```console
-The reslut of multiplying 4 and 9 is 36
+The result of multiplying 4 and 9 is 36
 ```
+
+ Your output can vary a bit from this. 
  
 
 ### Due 10/24 before 8am
