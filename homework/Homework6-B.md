@@ -15,6 +15,12 @@ Do not use log, exp, or pow. Use a loop!
 Your program should be identical to 6-A except that it should invoke ipow, instead of Math.pow.
  
 
+### Expected Output
+
+```console
+The reslut of raising 2 to the power of 4 is 16
+```
+ 
  
 
 ### Due 10/18 before 8am

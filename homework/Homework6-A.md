@@ -3,7 +3,7 @@
 Write a program called homework6A.java
 
 The purpose of this assignment is to declare, call, and define function definitions for a menu 
-based program that will mulitpy, divide, power of, validate, and find the minimum of three integers.
+based program that will mulitpy, divide, and perform the power function on two values that will be input.
 
 ```console
   Welcome to the COMP 11 Homework 7-A Menu
@@ -11,7 +11,7 @@ based program that will mulitpy, divide, power of, validate, and find the minimu
   1.  Multiply two integers
   2.  Divide two integers
   3.  Power of base and exponent
-  
+
   0.  Exit
   ====================================
   Enter selection:
@@ -21,9 +21,15 @@ From within each case statement, there will be a void function that gets the inp
 and stores the input into the referenced variables, and a second function that takes the input as 
 parameters, does the task and will return the result. Use #defined constants for the switch 
 statment's cases.
+
+### Expected Output
+
+```console
+The reslut of multiplying 4 and 9 is 36
+```
  
 
 ### Due 10/24 before 8am
 
-Sumbit homework6A.java to canvas under Homework 6A by 7:59 am on October 18.
+Sumbit homework6A.java to canvas under Homework 6A by 7:59 am on October 24.
 
