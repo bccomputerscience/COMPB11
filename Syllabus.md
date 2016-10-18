@@ -131,7 +131,7 @@ habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-m
 
 
 ## Weekly Schedule
-Date | Week | Subject | Notes | Assign/Due
+Date | Week | Reading Assignments | Java Tutorial | Assign/Due
 ------------ | ------------- | ------------- | ------------- | -------------
 Aug 23 | 1 |  Horstmann: 1. Introduction | |
 Aug 25 |  |  | |
