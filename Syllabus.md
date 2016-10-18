@@ -160,12 +160,12 @@ Nov 1 | 11 | Horstmann: 8. Designing Classes  | | Homework 7
 Nov 6 | | | | 
 Nov 8 | 12 | Horstmann: 9. Inheritance | Ch. 10 Interfaces | Homework 8
 Nov 10 | | | | 
-Nov 15 | 13  |  | | Homework 9
+Nov 15 | 13  | Horstmann: 13 Object Oriented Design | | Homework 9
 Nov 27 | | | | 
-Nov 22 | 14 | Horstmann: 3. Implementing Classes | |
+Nov 22 | 14 | Horstmann: 14. Recursion | |
 Nov 24 | | | | Homework 10
 Nov 30 |  | Review for final | | Chapter Reviews Due 6 - 9
-Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | | 
+Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | **Bring ScanTron** | 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
 ### This syllabus is TENTATIVE and subject to change
