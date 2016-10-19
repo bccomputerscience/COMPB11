@@ -30,7 +30,7 @@ The result of multiplying 4 and 9 is 36
  Your output can vary a bit from this. 
  
 
-### Due 10/24 before 8am
+### Due 10/25 before 8am
 
-Sumbit homework6A.java to canvas under Homework 6A by 7:59 am on October 24.
+Sumbit homework6A.java to canvas under Homework 6A by 7:59 am on October 25.
 
