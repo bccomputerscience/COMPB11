@@ -19,8 +19,7 @@ based program that will mulitpy, divide, and perform the power function on two v
 
 From within each case statement, there will be a void function that gets the input from the user 
 and stores the input into the referenced variables, and a second function that takes the input as 
-parameters, does the task and will return the result. Use #defined constants for the switch 
-statment's cases.
+parameters, does the task and will return the result. 
 
 ### Expected Output
 
