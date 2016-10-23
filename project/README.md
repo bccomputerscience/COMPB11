@@ -87,7 +87,8 @@ professor selects 'Enter Test Scores' menu option.
   ====================================
   1. Create Course 
   2. Add Students to a Course
-  3. Add Test scores to a Course
+  3. View Course Schedule
+  4. Add Test scores to a Course
 
   0.  Exit
   ====================================
@@ -127,6 +128,19 @@ Course | Name, Number, Units, Instructor, Students
 CourseAware | Course, Instructor
 CourseAwareMain | Main Driver
 CourseAwareTester | Tests
+
+### User Acceptance Test 60%
+
+Test Case | Description
+----------|-------------
+Start Application as an Instructor | 5 Steps
+1. Lauch App | Execute Application
+    | See Main Menu
+2. Create Course | Select Create Course Menu option
+  | Enter Course Information
+  | View Course in Instructor Schedule
+
+
 
 As a professor, I would like to enter student test scores.
 
