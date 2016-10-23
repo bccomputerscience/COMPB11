@@ -116,6 +116,16 @@ CourseAware.java | Core Logic of the CourseAware application
 CourseAwareMain.java | Main program 
 CourseAwareTester.java | Test Runner 
 
+Object | Properties
+------------ | -------------
+Person | First Name, Last Name, Middle Initial
+Instructor | Title
+Student | Status, GPA
+Course | Name, Number, Units, Instructor, Students
+CourseAware | Course, Instructor
+CourseAwareMain | Main Driver
+CourseAwareTester | Tests
+
 As a professor, I would like to enter student test scores.
 
 A professor launches the CourseAware application and is presented with the Professor Menu. The
