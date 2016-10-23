@@ -47,7 +47,8 @@ The project due date is firm. Late projects cannot and will not be accepted for 
 After testing your code I will also check your source for readability. Points marked off if your source is not well-documented and clean. Clean means that an algorithm that could be written in 10 lines of code should not be written in 50. Extraneous code is harder to debug. Code should have a consistent and pleasing style
 
 ### Required header:
-Your code should have a header at the top. An example follows.
+Each of your code should have a header at the top. An example follows. The description for each files
+should accuratley describe its purpose. Points will be deducted for copy/paste errors.
 
 ```java
 /* Developer: Eddie Rangel
@@ -68,6 +69,71 @@ Upload a project.zip folder to Canvas under the Project Assignment
 
 ### User Stories
 
+### Phase I
+#### 60%
+
+#### Professor Stories
+
+As a professor, I would like to create a course so that I can keep track of a semester
+
+A professor launches the CourseAware application and is presented with the Professor Menu. The
+professor selects 'Enter Test Scores' menu option. 
+
+
+```console
+  Welcome to CourseAware's Faculty Menu
+  ====================================
+  1. Create Course 
+  2. Add Students to a Course
+  3. Add Test scores to a Course
+
+  0.  Exit
+  ====================================
+  Enter selection:
+```
+
+#### Deliverables
+
+
+```console
+Person.java  
+Instructor.java  
+Student.java  
+Course.java  
+CourseAware.java  
+CourseAwareMain.java  
+CourseAwareTester.java  
+```
+
+
+File | Purpose
+------------ | -------------
+Person.java | Base Class
+Student.java | Inherits from Person
+Instructor.java | Inherits from Person
+Course.java | Implementation details of a Course object
+CourseAware.java | Core Logic of the CourseAware application
+CourseAwareMain.java | Main program 
+CourseAwareTester.java | Test Runner 
+
+As a professor, I would like to enter student test scores.
+
+A professor launches the CourseAware application and is presented with the Professor Menu. The
+professor selects 'Enter Test Scores' menu option. 
+
+
+```console
+  Welcome to CourseAware's Faculty Menu
+  ====================================
+  1.  Enter Test Scores
+  2.  Create Course
+  3.  View Class Schedule
+
+  0.  Exit
+  ====================================
+  Enter selection:
+```
+
 #### Student Stories
 As a student, I would like to enroll in a course. 
 
@@ -87,22 +153,3 @@ selects the 'Enroll in a Course' menu option. A student cannot enroll in more th
   Enter selection:
 ```
 
-#### Professor Stories
-
-As a professor, I would like to enter student test scores.
-
-A professor launches the CourseAware application and is presented with the Professor Menu. The
-professor selects 'Enter Test Scores' menu option. 
-
-
-```console
-  Welcome to CourseAware's Faculty Menu
-  ====================================
-  1.  Enter Test Scores
-  2.  Create Course
-  3.  View Class Schedule
-
-  0.  Exit
-  ====================================
-  Enter selection:
-```
