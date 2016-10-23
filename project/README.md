@@ -26,11 +26,13 @@ Do not send me your binaries
 No /bin directories please.  
 
 ### Project Milestones
-Phase I: 60%  
-Phase II: 70%  
-Phase III 80%  
-Phase IV 90%  
-Phase V 100%  
+Phase | Percent | Description
+------|---------|------------
+Phase I | 60% | Create a Course in the CourseAwareApp  
+Phase II | 70% | Populate course with Students  
+Phase III | 80% | Add test scores to Students 
+Phase IV | 90% | Support Multiple Courses  
+Phase V | 100% | Flare (Points for Creativity) 
 
 ### Project Disclaimers
 This is not a trivial project. Start at the 60% mark and work your way up. The features for all preceeding phases
