@@ -74,7 +74,7 @@ Upload a project.zip folder to Canvas under the Project Assignment
 ### Phase I
 #### 60%
 
-#### Professor Stories
+#### Professor Story 1A
 
 As a professor, I would like to create a course so that I can keep track of a semester
 
@@ -133,7 +133,7 @@ CourseAwareTester | Tests
 
 Test Case | Description
 ----------|-------------
-Start Application as an Instructor | 5 Steps
+Start Application as an Instructor | 2 Steps
 1. Lauch App | Execute Application
     | See Main Menu
 2. Create Course | Select Create Course Menu option
@@ -141,41 +141,68 @@ Start Application as an Instructor | 5 Steps
   | View Course in Instructor Schedule
 
 
+### Phase II
+#### 70%
 
-As a professor, I would like to enter student test scores.
+#### Professor Story 2A
+
+As a professor, I would like t add a list of Students to my course so that I can keep track of a their progress
 
 A professor launches the CourseAware application and is presented with the Professor Menu. The
-professor selects 'Enter Test Scores' menu option. 
+professor selects 'Add Students to a Course' menu option. 
 
 
 ```console
   Welcome to CourseAware's Faculty Menu
   ====================================
-  1.  Enter Test Scores
-  2.  Create Course
-  3.  View Class Schedule
+  1. Create Course 
+  2. Add Students to a Course
+  3. View Course Schedule
+  4. Add Test scores to a Course
 
   0.  Exit
   ====================================
   Enter selection:
 ```
 
-#### Student Stories
-As a student, I would like to enroll in a course. 
-
-A student launches the CourseAware application and is presented with the Student Menu. The student
-selects the 'Enroll in a Course' menu option. A student cannot enroll in more than 15 units.  
+#### Deliverables
+Everything from Phase I plus ...   
 
 
-```console
-  Welcome to CourseAware's Student Menu
-  ====================================
-  1.  Enroll in a Course
-  2.  View Class Schedule
-  3.  View Grades
+### User Acceptance Test 70%
 
-  0.  Exit
-  ====================================
-  Enter selection:
-```
+Test Case | Description
+----------|-------------
+Start Application as an Instructor | 2 Steps
+1. Lauch App | Execute Application
+    | See Main Menu
+2. Create Course | Select Add Students to a course option
+  | Enter Name of Student File
+  | View List of Imported Students
 
+
+### Phase II
+#### 80%
+
+#### Professor Story 3A
+
+As a professor, I would like t add a test scores to the Students in my course so that I maintain their progress
+
+A professor launches the CourseAware application and is presented with the Professor Menu. The
+professor selects 'Add Test scores to a Course' menu option. 
+
+#### Deliverables
+Everything from Phase I plus ...   
+
+
+### User Acceptance Test 70%
+
+Test Case | Description
+----------|-------------
+Start Application as an Instructor | 2 Steps
+1. Lauch App | Execute Application
+    | See Main Menu
+2. Create Course | Select Add Students to a course option
+  | View Course
+  | Select Course
+  | Add Test Scores to each Student
