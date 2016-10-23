@@ -8,24 +8,24 @@ Do not have the code of other students in your own directories or repositories.
 I will accept one comopressed folder with your Course Project source code. I suggest you first create 
 a folder called project. Your project should be structured in the following format
 
-/src
-/src/Person.java
-/src/Instructor.java
-/src/Student.java
-/src/Course.java
-/src/CourseAware.java
-/src/CourseAwareMain.java
-/src/CourseAwareTester.java
+/src  
+/src/Person.java  
+/src/Instructor.java  
+/src/Student.java  
+/src/Course.java  
+/src/CourseAware.java  
+/src/CourseAwareMain.java  
+/src/CourseAwareTester.java  
 
-Do not send me your binaries
-No /bin directories please.
+Do not send me your binaries  
+No /bin directories please.  
 
 ### Project Milestones
-Phase I: 60%
-Phase II: 70%
-Phase III 80%
-Phase IV 90%
-Phase V 100%
+Phase I: 60%  
+Phase II: 70%  
+Phase III 80%  
+Phase IV 90%  
+Phase V 100%  
 
 ### Project Disclaimers
 This is not a trivial project. Start at the 60% mark and work your way up. The features for all preceeding phases
