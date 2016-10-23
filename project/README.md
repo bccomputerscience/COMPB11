@@ -10,7 +10,8 @@ a folder called project. Your project should be structured in the following form
 files should be in a directory called src. If you're using eclipse, this shoud be the default behavior when 
 creating an Application.
 
-/project
+```console
+/project  
 /project/src  
 /project/src/Person.java  
 /project/src/Instructor.java  
@@ -19,6 +20,7 @@ creating an Application.
 /project/src/CourseAware.java  
 /project/src/CourseAwareMain.java  
 /project/src/CourseAwareTester.java  
+```
 
 Do not send me your binaries  
 No /bin directories please.  
