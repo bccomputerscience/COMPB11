@@ -6,16 +6,19 @@ Do not have the code of other students in your own directories or repositories.
 
 ### Requirements
 I will accept one comopressed folder with your Course Project source code. I suggest you first create 
-a folder called project. Your project should be structured in the following format
+a folder called project. Your project should be structured in the following format. All of your source code
+files should be in a directory called src. If you're using eclipse, this shoud be the default behavior when 
+creating an Application.
 
-/src  
-/src/Person.java  
-/src/Instructor.java  
-/src/Student.java  
-/src/Course.java  
-/src/CourseAware.java  
-/src/CourseAwareMain.java  
-/src/CourseAwareTester.java  
+/project
+/project/src  
+/project/src/Person.java  
+/project/src/Instructor.java  
+/project/src/Student.java  
+/project/src/Course.java  
+/project/src/CourseAware.java  
+/project/src/CourseAwareMain.java  
+/project/src/CourseAwareTester.java  
 
 Do not send me your binaries  
 No /bin directories please.  
