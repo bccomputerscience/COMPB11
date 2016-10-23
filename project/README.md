@@ -195,7 +195,7 @@ professor selects 'Add Test scores to a Course' menu option.
 Everything from Phase I plus ...   
 
 
-### User Acceptance Test 70%
+### User Acceptance Test 80%
 
 Test Case | Description
 ----------|-------------
