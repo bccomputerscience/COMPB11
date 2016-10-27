@@ -12,18 +12,18 @@ average (up to 3 decimal places).
 
  ```console
 
-declare you input and output file stream objects
-declare your variables for input, max, min, total, count, and avg
+declare you input and output file objects
+declare your variables for input, maximum, minimum, total, count, and average
 
-open input file stream
+open input file 
 check for failure, if so, alert the user and exit the program
 
 loop:
   read in input value
   update running total
   update count
-  compare and update max if input is greater than max
-  compare and update min if input is lesser than min
+  compare and update maximum if input is greater than max
+  compare and update minimum if input is lesser than min
 end loop
 
 close input file stream
@@ -55,7 +55,7 @@ Average: 5415.692
 -------------------------------------- 
  ```
 
-### Due 11/4 before 8am
+### Due 11/3 before 8am
 
-Sumbit homework7A.java to canvas under Homework 5 by 7:59 am on October 18.
+Sumbit homework7A.java to canvas under Homework 7 by 7:59 am on October 18.
 
