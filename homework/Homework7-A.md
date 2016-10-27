@@ -41,12 +41,12 @@ end
 #### homework7A
  ```console
 -------------------------------------- 
-Reading input file... done.
-Writing to output_data.txt... done.
+Reading input file input.txt... done.
+Writing to output.txt... done.
 -------------------------------------- 
 ```
 
-#### output_data.txt:
+#### output.txt:
 ```console
 -------------------------------------- 
 Count: 26
