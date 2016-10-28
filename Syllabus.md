@@ -79,8 +79,11 @@ Understand and use variables and types
 * Flash Drive
 * Two (2) green 100-answer test scan sheets (FORM NO. 882-ES).
 
-## Accommodations 
-Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs & Services at (661) 395-4334, (on-campus located at Student Services Building, 1st Floor, Counseling Center), as soon as possible to better ensure such accommodations are implemented in a timely fashion.
+## Accommodations and Special Considerations
+Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs 
+& Services at (661) 395-4334, (on-campus located at Student Success Center Building, 1st Floor, Counseling Center), as soon as possible 
+to better ensure such accommodations are implemented in a timely fashion. Students who have received an accomodations checklist must bring
+me a copy as directed. It is the students responsibility to arrange any alternative testing that is allowed under the accomodations checklist.
 
 ## Equity and Inclusion
 Bakersfield College is committed to creating and fostering a positive, safe and conducive learning environment based on open communication where diversity, equity, and inclusion are recognized, valued and inform thoughtful decision-making and action. BC embraces individual difference and expects all employees and students to respect these differences and accept an understanding that individuals have unique perspectives, behaviors, and worldviews that may be different from their own.
@@ -108,7 +111,20 @@ have conversations within class on your device. Carry your conversation outside 
 other social media platform that has messaging capabilities. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices should not be used in class for non-class related activities. In classes with Labs or other areas where computers are being used, these systems are provided for classroom activities only. 
 
 ## Attendance
-Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
+Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in the colleges academic calendar. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
+
+## General Classroom Etiquette
+The intent of the classroom etiquette policy is to outline the need to have considerations for other students within your class. The following guidelines
+have been provided to help you understand what this means.
+
+* Digital devices should be silenced, turned off, or otherwise muted. 
+* Prepare your desktop/tabletop area before the lecture starts. Prepare to leave once the lecture is concluded. Not before.
+** If you're in a computer lab, get logged in promptly. 
+* No eating in the classroom.
+** If you're in a computer lab, do not bring in outside beverages.
+* Sleeping is now allowed. If you are tired, please rest outside of the classroom. If you'd like, you can stand up in the back of the class.
+** If you are asleep you will be asked to leave. 
+
 
 ## Assignments, Quizzes and Exams
 
@@ -133,8 +149,10 @@ Range (%) | grade
 
 
 ## Exams, Assignments, and Late Policy 
-Make-up exams, quizzes, or any other type of assignment will not be given. Late assignments will not be accepted. Assignments are due at the beginning of the class session. 
-You may always arrange to turn in assignments or take exams in advance of the scheduled times. Exams and quizzes will be timed. You will not be given extra time to complete the exam or quiz if you start late.
+Make-up exams, quizzes, or any other type of assignment will not be given. Late assignments will not be accepted. Assignments are due at the beginning of the class session. I will collect
+all assignments. I will announce a "last call" for any lingering assignments, after the annoucement is made assignments will not longer be accepted. I will drop your lowest your 
+lowest homework assignment and lowest quiz score. You may always arrange to turn in assignments or take exams in advance of the scheduled times. 
+Exams and quizzes will be timed. You will not be given extra time to complete the exam or quiz if you start late.
 
 
 ## Extra Credit
