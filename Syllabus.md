@@ -119,11 +119,11 @@ have been provided to help you understand what this means.
 
 * Digital devices should be silenced, turned off, or otherwise muted. 
 * Prepare your desktop/tabletop area before the lecture starts. Prepare to leave once the lecture is concluded. Not before.
-** If you're in a computer lab, get logged in promptly. 
+  * If you're in a computer lab, get logged in promptly. 
 * No eating in the classroom.
-** If you're in a computer lab, do not bring in outside beverages.
+  * If you're in a computer lab, do not bring in outside beverages.
 * Sleeping is now allowed. If you are tired, please rest outside of the classroom. If you'd like, you can stand up in the back of the class.
-** If you are asleep you will be asked to leave. 
+  * If you are asleep you will be asked to leave. 
 
 
 ## Assignments, Quizzes and Exams
