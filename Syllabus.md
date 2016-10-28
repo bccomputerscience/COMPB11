@@ -203,5 +203,5 @@ Nov 30 |  | **Project Due** | | Chapter Reviews Due
 Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | **Bring ScanTron** | 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
-### This syllabus is TENTATIVE and subject to change
+### This syllabus is **tentative** and subject to change
 
