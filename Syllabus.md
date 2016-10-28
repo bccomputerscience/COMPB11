@@ -85,10 +85,27 @@ Students with disabilities who believe they may need accommodations in this clas
 ## Equity and Inclusion
 Bakersfield College is committed to creating and fostering a positive, safe and conducive learning environment based on open communication where diversity, equity, and inclusion are recognized, valued and inform thoughtful decision-making and action. BC embraces individual difference and expects all employees and students to respect these differences and accept an understanding that individuals have unique perspectives, behaviors, and worldviews that may be different from their own.
 
-## Course Policies  
+## Academic Honesty
 Each student in this course will abide by the Academic Honesty Policy described in the Academic Information and Standards section of the Bakersfield College Catalog.
 Collaboration in class while working on assignments is encouraged. Various projects in class will require group work. Students who do not participate equally with others on assigned group projects will receive a grade of zero.
-Please be sensitive to the learning environment and the needs of each and every student in class. Avoid causing distractions or engaging in non-class activity. Turn cells phones off before class starts and respond only after class ends. Unless it is an emergency, do not leave class to answer the phone and do not text message. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices are not to be used in class for non-class related activities. 
+Please be sensitive to the learning environment and the needs of each and every student in class. Avoid causing distractions or engaging in non-class activity. 
+
+### Actions that will not be tolorated 
+* Using any unauthorized material during an exam, quiz, or any time of assignment
+* Copying another students work including source code
+* Collaborating during an exam
+* Buying, stealing, or otherwise obtaining information regarding course's assessment material
+* Submitting another peron's work as your own
+* Giving your work to another person to fullfill their assignments
+* Plagiarizing 
+
+A violation of our academic standards will be immediately reported to the Dead of Student Life plus zero points earned for any assignment involved for each person involved.
+No excpetions.
+
+## Digital Devices (Cell phones, Personal Computer Devices)
+Cell phones and cell phone usage is a classroom disruption. You know how to use and operate your devices. It is expected that you will turn cells phones off or otherwise silence your devices before class starts and respond only after class ends. If class has not started, please do not
+have conversations within class on your device. Carry your conversation outside of the classroom. If there is an an emergency, you should leave the class to answer your calls or messages. Do not send text messages while in class. Again, have your conversations outside of class. This includes any
+other social media platform that has messaging capabilities. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices should not be used in class for non-class related activities. In classes with Labs or other areas where computers are being used, these systems are provided for classroom activities only. 
 
 ## Attendance
 Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
@@ -116,7 +133,7 @@ Range (%) | grade
 
 
 ## Exams, Assignments, and Late Policy 
-Mak-up exams or quizzes will not be given and late assignments will not be accepted. Assignments are due at the beginning of the class session. 
+Make-up exams, quizzes, or any other type of assignment will not be given. Late assignments will not be accepted. Assignments are due at the beginning of the class session. 
 You may always arrange to turn in assignments or take exams in advance of the scheduled times. Exams and quizzes will be timed. You will not be given extra time to complete the exam or quiz if you start late.
 
 
