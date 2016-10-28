@@ -59,5 +59,5 @@ Average: 5415.692
 
 ### Due 11/3 before 8am
 
-Sumbit homework7A.java to canvas under Homework 7 by 7:59 am on October 18.
+Sumbit homework7A.java to canvas under Homework 7 by 7:59 am on November 3.
 
