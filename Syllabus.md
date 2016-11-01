@@ -157,7 +157,7 @@ Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
 Oct 25 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 
 Oct 27 | | | | 
 Nov 1 | 11 | Horstmann: 8. Designing Classes  | | Homework 7 
-Nov 6 | | | | 
+Nov 3 | | | | 
 Nov 8 | 12 | Horstmann: 9. Inheritance | Ch. 10 Interfaces | Homework 8
 Nov 10 | | | | 
 Nov 15 | 13  | Horstmann: 13 Object Oriented Design | | Homework 9
