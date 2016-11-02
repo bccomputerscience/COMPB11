@@ -6,6 +6,9 @@ In this programming assignment you will use common array algorithms. You will us
 array with values.
 
 Write array methods that carry out the following tasks for an array of doubles by completting the ArrayMethods class below. 
+* Swap the first and last element in your array
+* Shift all of the elements by one to the right and move the last element into the first position.
+* Replace all even elements in your array with zeros.
 
 ```java
 // You will need to import the Random class
