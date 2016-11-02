@@ -2,7 +2,8 @@
 
 Write a program called ArrayMethods.java 
 
-In this programming assignment you will use common array algorithms. You will use a random number generator to fill up an array 
+In this programming assignment you will use common array algorithms. You will use a random number generator to fill up an 
+array with values.
 
 Write array methods that carry out the following tasks for an array of doubles by completting the ArrayMethods class below. 
 
@@ -19,7 +20,7 @@ public class ArrayMethods
 
   public void rotateRight(double[] values) {}
 
-  public void repalceEven(double[] values){}
+  public void replaceEven(double[] values){}
 
   public static void main(String[] args)
   {
@@ -34,14 +35,17 @@ public class ArrayMethods
     //Fill up your array with random double values
 
     // Perform swap
+    utility.swapFirstLast(values);
 
     // Print values in array 
 
     // Perform Shift
+    utility.rotateRight(values);
 
     // Print Values in array
 
     // Perform Replace with Even with Zeros
+    utility.replaceEven(values);
 
     // Print Values  
 
