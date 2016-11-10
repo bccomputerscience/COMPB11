@@ -1,67 +1,65 @@
-## Homework 6-A
+## Homework 8-A
 
-Write a program called homework5.java
+Write a program called ArrayMethods.java 
 
-The purpose of this lab is to handle file I/O. In this lab, you will read in a data text file containing integer values. For each read integer, you will keep track of the minimum value, maximum value, and a running total. Once the data file has been read, you will calculate the average, and then write to an output file the count, maximum, minimum, total, and average (up to 3 decimal places).
+In this programming assignment you will use common array algorithms. You will use a random number generator to fill up an 
+array with values.
 
-Lab 5 input file:
-use a wget command to download or a copy cp command to copy
+Write array methods that carry out the following tasks for an array of doubles by completting the ArrayMethods class below. 
+* Swap the first and last element in your array
+* Shift all of the elements by one to the right and move the last element into the first position.
+* Replace all even elements in your array with zeros.
 
-wget http://www.cs.csubak.edu/~derrick/cs2010/Labs/input_lab5.txt . 
+```java
+// You will need to import the Random class
+import java.util.Random;
 
-```console
-pseudocode:
+public class ArrayMethods
+{
+  public void swapFirstLast(double[] values)
+  {
+    // Fill in implementation detail
+  }
 
-declare your input and output file stream objects
-declare your variables for input, max, min, total, count, and avg
+  public void rotateRight(double[] values) {}
 
-open input file stream
-check for failure, if so, alert the user and exit the program
+  public void replaceEven(double[] values){}
 
-loop:
-  read in input value
-  update running total
-  update count
-  compare and update max if input is greater than max
-  compare and update min if input is lesser than min
-end loop
+  public static void main(String[] args)
+  {
+    // Create an array of doubles initialized to hold 10 elements
+    
+    // Create a utility object to work with the methods you will create
+    ArrayMethods utility = new ArrayMethods();
 
-close input file stream
+    // Create a random object to generate random values
+    Random generator = new Random();
 
-open output file stream
-check for failure, if so, alert the user and exit the program
+    //Fill up your array with random double values
 
-write the count, maximum, minimum, total, and average up to 3 decimal places
-close output file stream
+    // Perform swap
+    utility.swapFirstLast(values);
 
-end
+    // Print values in array 
 
+    // Perform Shift
+    utility.rotateRight(values);
+
+    // Print Values in array
+
+    // Perform Replace with Even with Zeros
+    utility.replaceEven(values);
+
+    // Print Values  
+
+  }
+ 
+}
 ```
 
-### Expected output
-
-```console
-Program Execution:
-
--------------------------------------- 
-Reading input file... done.
-Writing to output_data.txt... done.
--------------------------------------- 
 
 
-output_data.txt:
--------------------------------------- 
-Count: 26
-Max: 9663
-Min: 662
-Total: 140808
-Average: 5415.692
--------------------------------------- 
-```
+### Due 11/10 before 8am
 
-
-
-### Due 10/18 before 8am
-
-Sumbit homework5.java to canvas under Homework 5 by 7:59 am on October 18.
+Sumbit ArrayMethods.java  to canvas under Homework 8 by 7:59 am on November 10.
 
