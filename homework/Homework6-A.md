@@ -19,7 +19,8 @@ based program that will mulitpy, divide, and perform the power function on two v
 
 From within each case statement, there will be a void function that gets the input from the user 
 and stores the input into the referenced variables, and a second function that takes the input as 
-parameters, does the task and will return the result. 
+parameters, does the task and will return the result. Use #defined constants for the switch 
+statment's cases.
 
 ### Expected Output
 
@@ -30,7 +31,7 @@ The result of multiplying 4 and 9 is 36
  Your output can vary a bit from this. 
  
 
-### Due 10/25 before 8am
+### Due 10/24 before 8am
 
-Sumbit homework6A.java to canvas under Homework 6A by 7:59 am on October 25.
+Sumbit homework6A.java to canvas under Homework 6A by 7:59 am on October 24.
 

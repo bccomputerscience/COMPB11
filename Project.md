@@ -15,4 +15,3 @@ console based application than a sparsely featured graphical application.
 
 We will define a set of tests that will help us determine the completeness of our application.
 This will be done during User Acceptance Testing. 
-

@@ -191,6 +191,15 @@ Oct 20 | | Ch. 11 Input/Output Streams | |
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
 Oct 25 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 Due
 Oct 27 | | | | 
+Nov 1 | 11 | Horstmann: 8. Designing Classes  | | Homework 7 
+Nov 3 | | | | 
+Nov 8 | 12 | Horstmann: 9. Inheritance | Ch. 10 Interfaces | Homework 8
+Nov 10 | | | | 
+Nov 15 | 13  | Horstmann: 13 Object Oriented Design | | Homework 9
+Nov 27 | | | | 
+Nov 22 | 14 | Horstmann: 14. Recursion | |
+Nov 24 | | | | Homework 10
+Nov 30 |  | Review for final | | Chapter Reviews Due 6 - 9
 Nov 1 | 11 | Horstmann: 8. Designing Classes  | | 
 Nov 6 | | | | Homework 7 Due
 Nov 8 | 12 | Horstmann: 9. Inheritance | Ch. 10 Interfaces | 
