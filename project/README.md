@@ -207,4 +207,5 @@ Start Application as an Instructor | 2 Steps
 2. Create Course | Select Add Students to a course option
   | View Course
   | Select Course
-  | Add Test Scores to each Student
+  | Add Test Scores to each Student  
+3. Verify
