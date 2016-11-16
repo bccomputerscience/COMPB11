@@ -10,7 +10,7 @@ Bakersfield College
 Office: Business 13  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
-web: http://courses.eddierangel.com/bc  
+web: http://courses.eddierangel.com/BC  
 
 ## Course Information
 Building/Room: Business 11   
@@ -105,7 +105,7 @@ Please be sensitive to the learning environment and the needs of each and every 
 A violation of our academic standards will be immediately reported to the Dead of Student Life plus zero points earned for any assignment involved for each person involved.
 No excpetions.
 
-## Digital Devices (Cell phones, Personal Computer Devices)
+## Digital Devices (Cell phones, Personal Computer Devices, etc.)
 Cell phones and cell phone usage is a classroom disruption. You know how to use and operate your devices. It is expected that you will turn cells phones off or otherwise silence your devices before class starts and respond only after class ends. If class has not started, please do not
 have conversations within class on your device. Carry your conversation outside of the classroom. If there is an an emergency, you should leave the class to answer your calls or messages. Do not send text messages while in class. Again, have your conversations outside of class. This includes any
 other social media platform that has messaging capabilities. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices should not be used in class for non-class related activities. In classes with Labs or other areas where computers are being used, these systems are provided for classroom activities only. 
@@ -144,7 +144,7 @@ Range (%) | grade
 80 >= | B
 70 >= | C
 60 >= | D
-60 >= | F
+60 < | F
 * Grading is not curved.  89.99999 is a B.
 
 
@@ -211,6 +211,6 @@ Nov 24 | | | | Homework 10 Due
 Nov 30 |  | **Project Due** | | Chapter Reviews Due
 Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | **Bring ScanTron** | 
 
-### Read the material for the week before class
-### This syllabus is tentative and subject to change
+#### Read the material for the week before class
+#### This syllabus is tentative and subject to change
 
