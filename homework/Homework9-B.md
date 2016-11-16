@@ -13,7 +13,7 @@ You will need to override the ToString method so that you can properly print out
 
 ```java
 
-static void main(String[] args)
+public static void main(String[] args)
 {
     Student myStudent = new Student("John", "Doe", "Freshman", 3.5);
     System.out.println(myStudent.toString());
@@ -31,8 +31,7 @@ public class Student extends Person
     //Constructor
     public Student(String firstName, String lastName, String status, double gpa)
     {
-        this.firstName = firstName;
-        this.lastName = lastName;
+        super(firstName, lastName);
         this.status = status;
         this.gpa = gpa;
     }

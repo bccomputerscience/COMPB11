@@ -29,8 +29,7 @@ public class Instructor extends Person
     //Constructor
     public Instructor(String firstName, String lastName, String title, String department)
     {
-        this.firstName = firstName;
-        this.lastName = lastName;
+        super(firstName, lastName);
         this.title = title;
         this.department = department;
     }
