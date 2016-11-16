@@ -12,7 +12,7 @@ You will need to override the ToString method so that you can properly print out
 
 ```java
 
-static void main(String[] args)
+public static void main(String[] args)
 {
     Instructor myInstructor = new Instructor("John", "Doe", "Asst. Professor", "Computer Science");
     System.out.println(myInstructor.toString());
