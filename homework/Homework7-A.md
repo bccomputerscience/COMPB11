@@ -8,7 +8,7 @@ minimum value, maximum value, and a running total. Once the data file has been r
 calculate the average, and then write to an output file the count, maximum, minimum, total, and 
 average (up to 3 decimal places).
 
- ### Psuedocode
+### Psuedocode
  ```console
 
 declare you input and output file stream objects
