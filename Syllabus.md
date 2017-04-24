@@ -1,25 +1,26 @@
 # COMP B11 - Programming Concepts and Methodology I
-## Fall 2016 CRN: 70546
+## Fall 2017 CRN: 71458
 
 ### Eddie Rangel
-Asst. Professor  
+Assoc. Professor  
 Information Technology  
 Bakersfield College  
 
 ## Contact Information
-Office: Business 13  
+Office: Business 1  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
-web: http://courses.eddierangel.com/BC  
+web: http://courses.eddierangel.com/bc/compb11
+
 
 ## Course Information
 Building/Room: Business 11   
-Tuesday 8:00am - 9:25am      
-Thursday 8:00 - 9:25am  
+Tuesday 09:35am - 11:00am .      
+Thursday 09:35am - 11:00am . 
 
 
 ## Office Hours
-Office: Business 13
+Office: Business 1
 
 Day | Time
 ------------ | -------------
@@ -72,12 +73,15 @@ Understand and use variables and types
 ## Textbook
 
 ### Required:
-* Java Concepts (Early Objects) (8th edition) by Cay S. Horstmann, ISBN: 9781119056454  
+* Starting Out with Java: From Control Structures through Objects, 6th Edition
+    * ISBN-13: 9780134047904 
+    * ~ $114.40 in BC Bookstore
 * The Java Tutorial 
     * URL: https://docs.oracle.com/javase/tutorial/
 * BC Email Address   
 * Flash Drive
-* Two (2) green 100-answer test scan sheets (FORM NO. 882-ES).
+* Four (4) green 100-answer test scan sheets 
+    * (FORM NO. 882-ES)
 
 ## Accommodations and Special Considerations
 Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs 
@@ -130,13 +134,13 @@ have been provided to help you understand what this means.
 
 Assignment | Points
 ------------ | -------------
-Project | 50
-Midterm | 50
+Group Project | 50
 Programming Assignments (10 @ 20 points each) | 200
-Chapter Reviews (5 @ 10 pts) | 50
-Pop Quizzes (5 @ 10 pts) | 50 
-Final Exam | 100
+Homework Assignments (10 @ 10 points each) | 100
+Midterm | 25/50
+Final Exam | 25/50
 **TOTAL** | **500**
+* The number of actual assignments given may change. If this occurs the points will be adjusted.
 
 Range (%) | grade 
 ------------ | -------------
@@ -165,43 +169,39 @@ Many free resources exist at BC to help you accomplish your goals. For great inf
 habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-mind).
 
 
-## Weekly Schedule
-Date | Week | Reading Assignments | Java Tutorial | Assign/Due
------------- | ------------- | ------------- | ------------- | -------------
-Aug 23 | 1 |  Horstmann: 1. Introduction | |
-Aug 25 |  |  | |
-Aug 30 | 2 |  Horstmann: 2. Using Objects | | 
-Sept 1 |  |  | |
-Sept 4 | 3 |  Labor Day – Campus Closed | | 
-Sept 5 |  | Last day to withdraw and not have a W show on your transcript | |
-Sept 6 |  |  | | Homework 1 
-Sept 8 | | Horstmann: 3. Implementing Classes | |
-Sept 13 | 4  |  |  | Quiz One
-Sept 15 | |  |  |
-Sept 20 | 5 | Horstmann: 4. Fundamental Data Types | | 
-Sept 22 |  |  |  | Homework 2
-Sept 27 | 6 | Horstmann: 5. Decisions |  | 
-Sept 29 |  | | | 
-Oct 4 | 7 | Java Tutorial [Control Statements](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  | | Homework 3 due
-Oct 6 | |  | |
-Oct 11 | 8 | Horstmann: 6. Loops | | Homework 4 due
-Oct 13 |  |  Midterm Exam | | Homework 5  Chapter Reviews Due 1 - 5
-Oct 18 | 9 | | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) |
-Oct 20 | | Ch. 11 Input/Output Streams | |
-Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 25 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 Due
-Oct 27 | | | |
-Nov 1 | 11 | Horstmann: 8. Designing Classes  | | 
-Nov 6 | | | | Homework 7 Due
-Nov 8 | 12 | Horstmann: 9. Inheritance | Ch. 10 Interfaces | 
-Nov 10 | | | | Homework 8 Due
-Nov 15 | 13  | Horstmann: 13 Object Oriented Design | | 
-Nov 27 | | | | Homework 9 Due
-Nov 22 | 14 | Horstmann: 14. Recursion | | 
-Nov 24 | | | | Homework 10 Due
-Nov 30 |  | **Project Due** | | Chapter Reviews Due
-Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | **Bring ScanTron** | 
+## Important Dates
+Date | Event
+------ | ------
+Jan 14 | Spring Semester - Instruction Begins 
+Jan 16 | Martin Luther King, Jr. Day Holiday – Campus Closed
+Jan 29 | Last day to drop from a semester length class without receiving a W 
+Jan 29 | Last day to add a semester length class with approved add form  
+Feb 17 | Lincoln Holiday - Campus Closed 
+Feb 20 | Washington Holiday - Campus Closed  
+Mar 24 | Last day to withdraw from a semester length class and receive a W 
+Apr 10 | Spring Break - Campus Closed 
+May 12 | End of Spring Semester
 
-#### Read the material for the week before class
-#### This syllabus is tentative and subject to change
+## 16 Week Semester Schedule  
+Week | Topics | Reading | Assignments
+ ------------- | ------------- | ------------- | -------------
+1 | Intro. to Course | Ch. 1 | 
+2 | Java Fundamentals | Ch. 2 | HW 1
+3 | Decision Structures | Ch. 3 | PA 1
+4 | Loops and Files | Ch. 4 | HW 2, PA 2
+5 | Methods  | Ch. 5 | 
+6 | Classes | Ch. 6 | HW 3, PA 3
+7 | Arrays and the ArrayList Class | Ch. 7 | HW 4, PA 4
+8 | Classes and Objects | Ch. 8 | HW 5
+9 | MidTerm | | PA 5
+10 | Text Processing  | Ch. 9 | 
+11 | Inheritance | Ch. 10 | HW 6, PA 6
+12 | Exceptions and Advanced File I/O | Ch. 11 | HW 7, PA 7
+13 | GUI Applications | Ch. 12 | HW 8, PA 8
+14 | Advanced GUI/Applets | Ch. 13, 14 | HW 9, PA 9
+15 | Project Work | Ch. 19 - 20 | HW 10, PA 10
+16 | Finals Week | | Project Due
+ |  Final Exam May 10 from 12:00PM -1:50PM | **Bring ScanTron** | 
 
+### Read the material for the week before class
+### This syllabus is tentative and subject to change
