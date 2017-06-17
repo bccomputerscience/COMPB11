@@ -15,8 +15,8 @@ web: http://courses.eddierangel.com/bc/compb11
 
 ## Course Information
 Building/Room: Business 11   
-Tuesday 09:35am - 11:00am .      
-Thursday 09:35am - 11:00am . 
+Tuesday 09:35am - 11:00am        
+Thursday 09:35am - 11:00am     
 
 
 ## Office Hours
@@ -92,9 +92,12 @@ me a copy as directed. It is the students responsibility to arrange any alternat
 ## Equity and Inclusion
 Bakersfield College is committed to creating and fostering a positive, safe and conducive learning environment based on open communication where diversity, equity, and inclusion are recognized, valued and inform thoughtful decision-making and action. BC embraces individual difference and expects all employees and students to respect these differences and accept an understanding that individuals have unique perspectives, behaviors, and worldviews that may be different from their own.
 
-## Academic Honesty
-Each student in this course will abide by the Academic Honesty Policy described in the Academic Information and Standards section of the Bakersfield College Catalog.
-Collaboration in class while working on assignments is encouraged. Various projects in class will require group work. Students who do not participate equally with others on assigned group projects will receive a grade of zero.
+## Academic Honesty and Plagiarism Policy
+Academic dishonesty will not be tolerated. Each student in this course will abide by the Academic Honesty Policy described in the [Academic Information and Standards](https://www.bakersfieldcollege.edu/sites/bakersfieldcollege.edu/files/1617Catalog_AcademicInfo.pdf) section of the Bakersfield College Catalog. A violation of our academic honesty and plagiarism policy will be immediately reported to the Dead of Student Life plus zero points earned for any assignment involved for each student involved. No excpetions.
+
+### Group Activities  
+Collaboration in class while working on assignments is encouraged. Various projects in class will require group work. Students who do not participate equally with others on assigned group projects will receive a grade of zero. 
+
 Please be sensitive to the learning environment and the needs of each and every student in class. Avoid causing distractions or engaging in non-class activity. 
 
 ### Actions that will not be tolorated 
@@ -106,16 +109,13 @@ Please be sensitive to the learning environment and the needs of each and every 
 * Giving your work to another person to fullfill their assignments
 * Plagiarizing 
 
-A violation of our academic standards will be immediately reported to the Dead of Student Life plus zero points earned for any assignment involved for each person involved.
-No excpetions.
-
 ## Digital Devices (Cell phones, Personal Computer Devices, etc.)
 Cell phones and cell phone usage is a classroom disruption. You know how to use and operate your devices. It is expected that you will turn cells phones off or otherwise silence your devices before class starts and respond only after class ends. If class has not started, please do not
 have conversations within class on your device. Carry your conversation outside of the classroom. If there is an an emergency, you should leave the class to answer your calls or messages. Do not send text messages while in class. Again, have your conversations outside of class. This includes any
 other social media platform that has messaging capabilities. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices should not be used in class for non-class related activities. In classes with Labs or other areas where computers are being used, these systems are provided for classroom activities only. 
 
 ## Attendance
-Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in the colleges academic calendar. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
+Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in the colleges academic calendar under [Important Dates](https://www.bakersfieldcollege.edu/important-dates). It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, may be marked absent upon their early departure.
 
 ## General Classroom Etiquette
 The intent of the classroom etiquette policy is to outline the need to have considerations for other students within your class. The following guidelines
@@ -134,13 +134,16 @@ have been provided to help you understand what this means.
 
 Assignment | Points
 ------------ | -------------
-Group Project | 50
+Project Proposal | 15
+Group Project | 25
 Programming Assignments (10 @ 20 points each) | 200
 Homework Assignments (10 @ 10 points each) | 100
+In-Class Assignments (5 @ 5 points each) | 25 
+Quizzes (5 @ 5 points each) | 25 
 Midterm | 25/50
 Final Exam | 25/50
-**TOTAL** | **500**
-* The number of actual assignments given may change. If this occurs the points will be adjusted.
+**TOTAL** | **550**
+* The number of actual assignments given may vary depending on the pace of the semester. If this occurs the points will be adjusted accordingly.
 
 Range (%) | grade 
 ------------ | -------------
@@ -149,13 +152,11 @@ Range (%) | grade
 70 >= | C
 60 >= | D
 60 < | F
-* Grading is not curved.  89.99999 is a B.
+* Grading is not curved.  89.99 is a B.
 
 
 ## Exams, Assignments, and Late Policy 
-Make-up exams, quizzes, or any other type of assignment will not be given. Late assignments will not be accepted. Assignments are due at the beginning of the class session. I will collect
-all assignments. I will announce a "last call" for any lingering assignments, after the annoucement is made assignments will not longer be accepted. I will drop your lowest your 
-lowest homework assignment and lowest quiz score. You may always arrange to turn in assignments or take exams in advance of the scheduled times. 
+Make-up exams, quizzes, or any other type of assignment will not be given. Late assignments will not be accepted. Assignments are due on their assigned due date. All assignments should be submitted to Canvas. You may always submit an assignments early or arrange to take exams in advance of the scheduled times. 
 Exams and quizzes will be timed. You will not be given extra time to complete the exam or quiz if you start late.
 
 
@@ -172,15 +173,14 @@ habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-m
 ## Important Dates
 Date | Event
 ------ | ------
-Jan 14 | Spring Semester - Instruction Begins 
-Jan 16 | Martin Luther King, Jr. Day Holiday – Campus Closed
-Jan 29 | Last day to drop from a semester length class without receiving a W 
-Jan 29 | Last day to add a semester length class with approved add form  
-Feb 17 | Lincoln Holiday - Campus Closed 
-Feb 20 | Washington Holiday - Campus Closed  
-Mar 24 | Last day to withdraw from a semester length class and receive a W 
-Apr 10 | Spring Break - Campus Closed 
-May 12 | End of Spring Semester
+Aug 19 | Fall Semester - Instruction Begins 
+Sep 03 | Last day to drop from a semester length class without receiving a W 
+Sep 04 | Labor Day Holiday - Campus Closed
+Oct 20 | Last day to withdraw from a semester length class and receive a W 
+Nov 10 | Veterans Day - Campus Closed 
+Nov 23 | Thanksgiving Holiday - Campus Closed 
+Nov 24 | Thanksgiving Holiday - Campus Closed 
+Dec 09 | End of Fall Semester
 
 ## 16 Week Semester Schedule  
 Week | Topics | Reading | Assignments
@@ -193,15 +193,15 @@ Week | Topics | Reading | Assignments
 6 | Classes | Ch. 6 | HW 3, PA 3
 7 | Arrays and the ArrayList Class | Ch. 7 | HW 4, PA 4
 8 | Classes and Objects | Ch. 8 | HW 5
-9 | MidTerm | | PA 5
+9 | MidTerm | **Bring ScanTron** | PA 5
 10 | Text Processing  | Ch. 9 | 
 11 | Inheritance | Ch. 10 | HW 6, PA 6
 12 | Exceptions and Advanced File I/O | Ch. 11 | HW 7, PA 7
 13 | GUI Applications | Ch. 12 | HW 8, PA 8
 14 | Advanced GUI/Applets | Ch. 13, 14 | HW 9, PA 9
-15 | Project Work | Ch. 19 - 20 | HW 10, PA 10
-16 | Finals Week | | Project Due
- |  Final Exam May 10 from 12:00PM -1:50PM | **Bring ScanTron** | 
+15 | Project Due | Ch. 19 - 20 | HW 10, PA 10
+16 | Finals Week | | 
+ |  Final Exam Tues., Dec. 5 from 10:00 am - 11:50 am | **Bring ScanTron** | 
 
 ### Read the material for the week before class
 ### This syllabus is tentative and subject to change
