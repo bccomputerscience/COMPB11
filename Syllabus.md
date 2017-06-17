@@ -117,6 +117,50 @@ other social media platform that has messaging capabilities. Do not conduct pers
 ## Attendance
 Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in the colleges academic calendar under [Important Dates](https://www.bakersfieldcollege.edu/important-dates). It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, may be marked absent upon their early departure.
 
+## Technology Requirements
+### Access
+If you do not have access to a computer off campus, there are several computer labs on campus you can use to participate in the course. 
+
+### Computer Requirements
+You will need to have an up-to-date browser, operating system and some additional
+software on your computer to take this class. Some of the documents in this course will be available to you in PDF form. If you do not have Adobe Acrobat Reader software on your computer, you can download it by going to http://get.adobe.com/reader/.
+
+### Software Development Kit
+You will need to download and install the Java Development Kit if you plan on using your personal computer for this course.
+
+## Course communication
+### How to
+Through out this semester we will need to communicate with eachother about the course. We will be using Canvas and its built in feature to help us. If you are not familiar with Canvas please use the [Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212).
+
+### Announcements
+Announcements will be posted in Canvas on a regular basis. They will appear on your Canvas dashboard when you log in and/or will be sent to you directly through your preferred method of notification from Canvas. Please make certain to check them regularly, as they will contain any important information
+about upcoming projects or class concerns. 
+
+### Email
+In this course we will use the Conversations feature to send private email  messages to me. You access the Conversations feature through your Inbox located in the Navigation Pane on the left side of the Canvas portal. You can either check your messages in the
+Canvas system or set your notifications to your preferred method of contact. Please check your
+messages regularly. When submitting messages, please do the following:
+* Put a subject in the subject box that describes the email content For example: Canvas Scavenger Hunt or Programming Assignment 1.
+* Send email only through Conversations and not my school email account.
+* Do not send messages asking general information about the class, please post those in the
+Discussions area in our Canvas Course.
+* Do not submit your assignments by message.
+* Make certain to check your messages frequently.
+
+### Questions
+In all courses it is normal to have many questions about things that relate to the course, such as
+clarification about assignments, course materials, or assessments. Please post these in the Discussions
+area which you can access by clicking the Discussions button in the course navigation links. This is
+an open forum, and you are encouraged to give answers and help each other. [Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212)
+
+### Discussion Forums
+Discussion Forums are a way for you to engage with each other about the course content. Each lesson
+module will have a question that links to a forum. You can also access each forum by clicking on the
+Discussions button in the course navigation links. In order to get full credit for each discussion, you will
+need to post a thoughtful, well-written response to the question and respond to two of your classmates’
+answers.[ Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212)
+
+
 ## General Classroom Etiquette
 The intent of the classroom etiquette policy is to outline the need to have considerations for other students within your class. The following guidelines
 have been provided to help you understand what this means.
@@ -140,8 +184,8 @@ Programming Assignments (10 @ 20 points each) | 200
 Homework Assignments (10 @ 10 points each) | 100
 In-Class Assignments (5 @ 5 points each) | 25 
 Quizzes (5 @ 5 points each) | 25 
-Midterm | 25/50
-Final Exam | 25/50
+Midterm (25/50) | 75 
+Final Exam (25/50) | 75
 **TOTAL** | **550**
 * The number of actual assignments given may vary depending on the pace of the semester. If this occurs the points will be adjusted accordingly.
 
