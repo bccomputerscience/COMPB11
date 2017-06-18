@@ -130,7 +130,7 @@ You will need to download and install the Java Development Kit if you plan on us
 
 ## Course communication
 ### How to
-Through out this semester we will need to communicate with eachother about the course. We will be using Canvas and its built in feature to help us. If you are not familiar with Canvas please use the [Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212).
+Through out this semester we will need to communicate with eachother about the course. We will be using Canvas and its built in features to help us. If you are not familiar with Canvas please use the [Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212).
 
 ### Announcements
 Announcements will be posted in Canvas on a regular basis. They will appear on your Canvas dashboard when you log in and/or will be sent to you directly through your preferred method of notification from Canvas. Please make certain to check them regularly, as they will contain any important information
@@ -141,13 +141,13 @@ In this course we will use the Conversations feature to send private email  mess
 Canvas system or set your notifications to your preferred method of contact. Please check your
 messages regularly. When submitting messages, please do the following:
 * Put a subject in the subject box that describes the email content For example: Canvas Scavenger Hunt or Programming Assignment 1.
-* Send email only through Conversations and not my school email account.
+* Send email only through Conversations in Canvas and not to my school email account.
 * Do not send messages asking general information about the class, please post those in the
 Discussions area in our Canvas Course.
-* Do not submit your assignments by message.
+* Do not submit your assignments by message. They will not be accepted.
 * Make certain to check your messages frequently.
 
-### Questions
+### Course Questions
 In all courses it is normal to have many questions about things that relate to the course, such as
 clarification about assignments, course materials, or assessments. Please post these in the Discussions
 area which you can access by clicking the Discussions button in the course navigation links. This is
