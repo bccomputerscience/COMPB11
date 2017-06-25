@@ -1,25 +1,26 @@
 # COMP B11 - Programming Concepts and Methodology I
-## Fall 2016 CRN: 70546
+## Fall 2017 CRN: 71458
 
 ### Eddie Rangel
-Asst. Professor  
+Assoc. Professor  
 Information Technology  
 Bakersfield College  
 
 ## Contact Information
-Office: Business 13  
+Office: Business 1  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
-web: http://courses.eddierangel.com/BC  
+web: http://courses.eddierangel.com/bc/compb11
+
 
 ## Course Information
 Building/Room: Business 11   
-Tuesday 8:00am - 9:25am      
-Thursday 8:00 - 9:25am  
+Tuesday 09:35am - 11:00am        
+Thursday 09:35am - 11:00am     
 
 
 ## Office Hours
-Office: Business 13
+Office: Business 1
 
 Day | Time
 ------------ | -------------
@@ -72,12 +73,15 @@ Understand and use variables and types
 ## Textbook
 
 ### Required:
-* Java Concepts (Early Objects) (8th edition) by Cay S. Horstmann, ISBN: 9781119056454  
+* Starting Out with Java: From Control Structures through Objects, 6th Edition
+    * ISBN-13: 9780134047904 
+    * ~ $114.40 in BC Bookstore
 * The Java Tutorial 
     * URL: https://docs.oracle.com/javase/tutorial/
 * BC Email Address   
 * Flash Drive
-* Two (2) green 100-answer test scan sheets (FORM NO. 882-ES).
+* Four (4) green 100-answer test scan sheets 
+    * (FORM NO. 882-ES)
 
 ## Accommodations and Special Considerations
 Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs 
@@ -88,9 +92,12 @@ me a copy as directed. It is the students responsibility to arrange any alternat
 ## Equity and Inclusion
 Bakersfield College is committed to creating and fostering a positive, safe and conducive learning environment based on open communication where diversity, equity, and inclusion are recognized, valued and inform thoughtful decision-making and action. BC embraces individual difference and expects all employees and students to respect these differences and accept an understanding that individuals have unique perspectives, behaviors, and worldviews that may be different from their own.
 
-## Academic Honesty
-Each student in this course will abide by the Academic Honesty Policy described in the Academic Information and Standards section of the Bakersfield College Catalog.
-Collaboration in class while working on assignments is encouraged. Various projects in class will require group work. Students who do not participate equally with others on assigned group projects will receive a grade of zero.
+## Academic Honesty and Plagiarism Policy
+Academic dishonesty will not be tolerated. Each student in this course will abide by the Academic Honesty Policy described in the [Academic Information and Standards](https://www.bakersfieldcollege.edu/sites/bakersfieldcollege.edu/files/1617Catalog_AcademicInfo.pdf) section of the Bakersfield College Catalog. A violation of our academic honesty and plagiarism policy will be immediately reported to the Dead of Student Life plus zero points earned for any assignment involved for each student involved. No excpetions.
+
+### Group Activities  
+Collaboration in class while working on assignments is encouraged. Various projects in class will require group work. Students who do not participate equally with others on assigned group projects will receive a grade of zero. 
+
 Please be sensitive to the learning environment and the needs of each and every student in class. Avoid causing distractions or engaging in non-class activity. 
 
 ### Actions that will not be tolorated 
@@ -102,16 +109,57 @@ Please be sensitive to the learning environment and the needs of each and every 
 * Giving your work to another person to fullfill their assignments
 * Plagiarizing 
 
-A violation of our academic standards will be immediately reported to the Dead of Student Life plus zero points earned for any assignment involved for each person involved.
-No excpetions.
-
 ## Digital Devices (Cell phones, Personal Computer Devices, etc.)
 Cell phones and cell phone usage is a classroom disruption. You know how to use and operate your devices. It is expected that you will turn cells phones off or otherwise silence your devices before class starts and respond only after class ends. If class has not started, please do not
 have conversations within class on your device. Carry your conversation outside of the classroom. If there is an an emergency, you should leave the class to answer your calls or messages. Do not send text messages while in class. Again, have your conversations outside of class. This includes any
 other social media platform that has messaging capabilities. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices should not be used in class for non-class related activities. In classes with Labs or other areas where computers are being used, these systems are provided for classroom activities only. 
 
 ## Attendance
-Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in the colleges academic calendar. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
+Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in the colleges academic calendar under [Important Dates](https://www.bakersfieldcollege.edu/important-dates). It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, may be marked absent upon their early departure.
+
+## Technology Requirements
+### Access
+If you do not have access to a computer off campus, there are several computer labs on campus you can use to participate in the course. 
+
+### Computer Requirements
+You will need to have an up-to-date browser, operating system and some additional
+software on your computer to take this class. Some of the documents in this course will be available to you in PDF form. If you do not have Adobe Acrobat Reader software on your computer, you can download it by going to http://get.adobe.com/reader/.
+
+### Software Development Kit
+You will need to download and install the Java Development Kit if you plan on using your personal computer for this course.
+
+## Course communication
+### How to
+Through out this semester we will need to communicate with eachother about the course. We will be using Canvas and its built in features to help us. If you are not familiar with Canvas please use the [Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212).
+
+### Announcements
+Announcements will be posted in Canvas on a regular basis. They will appear on your Canvas dashboard when you log in and/or will be sent to you directly through your preferred method of notification from Canvas. Please make certain to check them regularly, as they will contain any important information
+about upcoming projects or class concerns. 
+
+### Email
+In this course we will use the Conversations feature to send private email  messages to me. You access the Conversations feature through your Inbox located in the Navigation Pane on the left side of the Canvas portal. You can either check your messages in the
+Canvas system or set your notifications to your preferred method of contact. Please check your
+messages regularly. When submitting messages, please do the following:
+* Put a subject in the subject box that describes the email content For example: Canvas Scavenger Hunt or Programming Assignment 1.
+* Send email only through Conversations in Canvas and not to my school email account.
+* Do not send messages asking general information about the class, please post those in the
+Discussions area in our Canvas Course.
+* Do not submit your assignments by message. They will not be accepted.
+* Make certain to check your messages frequently.
+
+### Course Questions
+In all courses it is normal to have many questions about things that relate to the course, such as
+clarification about assignments, course materials, or assessments. Please post these in the Discussions
+area which you can access by clicking the Discussions button in the course navigation links. This is
+an open forum, and you are encouraged to give answers and help each other. [Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212)
+
+### Discussion Forums
+Discussion Forums are a way for you to engage with each other about the course content. Each lesson
+module will have a question that links to a forum. You can also access each forum by clicking on the
+Discussions button in the course navigation links. In order to get full credit for each discussion, you will
+need to post a thoughtful, well-written response to the question and respond to two of your classmates’
+answers.[ Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212)
+
 
 ## General Classroom Etiquette
 The intent of the classroom etiquette policy is to outline the need to have considerations for other students within your class. The following guidelines
@@ -130,13 +178,16 @@ have been provided to help you understand what this means.
 
 Assignment | Points
 ------------ | -------------
-Project | 50
-Midterm | 50
+Project Proposal | 15
+Group Project | 25
 Programming Assignments (10 @ 20 points each) | 200
-Chapter Reviews (5 @ 10 pts) | 50
-Pop Quizzes (5 @ 10 pts) | 50 
-Final Exam | 100
-**TOTAL** | **500**
+Homework Assignments (10 @ 10 points each) | 100
+In-Class Assignments (5 @ 5 points each) | 25 
+Quizzes (5 @ 5 points each) | 25 
+Midterm (25/50) | 75 
+Final Exam (25/50) | 75
+**TOTAL** | **550**
+* The number of actual assignments given may vary depending on the pace of the semester. If this occurs the points will be adjusted accordingly.
 
 Range (%) | grade 
 ------------ | -------------
@@ -145,13 +196,11 @@ Range (%) | grade
 70 >= | C
 60 >= | D
 60 < | F
-* Grading is not curved.  89.99999 is a B.
+* Grading is not curved.  89.99 is a B.
 
 
 ## Exams, Assignments, and Late Policy 
-Make-up exams, quizzes, or any other type of assignment will not be given. Late assignments will not be accepted. Assignments are due at the beginning of the class session. I will collect
-all assignments. I will announce a "last call" for any lingering assignments, after the annoucement is made assignments will not longer be accepted. I will drop your lowest your 
-lowest homework assignment and lowest quiz score. You may always arrange to turn in assignments or take exams in advance of the scheduled times. 
+Make-up exams, quizzes, or any other type of assignment will not be given. Late assignments will not be accepted. Assignments are due on their assigned due date. All assignments should be submitted to Canvas. You may always submit an assignments early or arrange to take exams in advance of the scheduled times. 
 Exams and quizzes will be timed. You will not be given extra time to complete the exam or quiz if you start late.
 
 
@@ -165,43 +214,38 @@ Many free resources exist at BC to help you accomplish your goals. For great inf
 habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-mind).
 
 
-## Weekly Schedule
-Date | Week | Reading Assignments | Java Tutorial | Assign/Due
------------- | ------------- | ------------- | ------------- | -------------
-Aug 23 | 1 |  Horstmann: 1. Introduction | |
-Aug 25 |  |  | |
-Aug 30 | 2 |  Horstmann: 2. Using Objects | | 
-Sept 1 |  |  | |
-Sept 4 | 3 |  Labor Day – Campus Closed | | 
-Sept 5 |  | Last day to withdraw and not have a W show on your transcript | |
-Sept 6 |  |  | | Homework 1 
-Sept 8 | | Horstmann: 3. Implementing Classes | |
-Sept 13 | 4  |  |  | Quiz One
-Sept 15 | |  |  |
-Sept 20 | 5 | Horstmann: 4. Fundamental Data Types | | 
-Sept 22 |  |  |  | Homework 2
-Sept 27 | 6 | Horstmann: 5. Decisions |  | 
-Sept 29 |  | | | 
-Oct 4 | 7 | Java Tutorial [Control Statements](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  | | Homework 3 due
-Oct 6 | |  | |
-Oct 11 | 8 | Horstmann: 6. Loops | | Homework 4 due
-Oct 13 |  |  Midterm Exam | | Homework 5  Chapter Reviews Due 1 - 5
-Oct 18 | 9 | | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) |
-Oct 20 | | Ch. 11 Input/Output Streams | |
-Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 25 | 10 | Horstmann: 7. Arrays and Array Lists | | Homework 6 Due
-Oct 27 | | | |
-Nov 1 | 11 | Horstmann: 8. Designing Classes  | | 
-Nov 6 | | | | Homework 7 Due
-Nov 8 | 12 | Horstmann: 9. Inheritance | Ch. 10 Interfaces | 
-Nov 10 | | | | Homework 8 Due
-Nov 15 | 13  | Horstmann: 13 Object Oriented Design | | 
-Nov 27 | | | | Homework 9 Due
-Nov 22 | 14 | Horstmann: 14. Recursion | | 
-Nov 24 | | | | Homework 10 Due
-Nov 30 |  | **Project Due** | | Chapter Reviews Due
-Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | **Bring ScanTron** | 
+## Important Dates
+Date | Event
+------ | ------
+Aug 19 | Fall Semester - Instruction Begins 
+Sep 03 | Last day to drop from a semester length class without receiving a W 
+Sep 04 | Labor Day Holiday - Campus Closed
+Oct 20 | Last day to withdraw from a semester length class and receive a W 
+Nov 10 | Veterans Day - Campus Closed 
+Nov 23 | Thanksgiving Holiday - Campus Closed 
+Nov 24 | Thanksgiving Holiday - Campus Closed 
+Dec 09 | End of Fall Semester
 
-#### Read the material for the week before class
-#### This syllabus is tentative and subject to change
+## 16 Week Semester Schedule  
+Week | Topics | Reading | Assignments
+ ------------- | ------------- | ------------- | -------------
+1 | Intro. to Course | Ch. 1 | 
+2 | Java Fundamentals | Ch. 2 | HW 1
+3 | Decision Structures | Ch. 3 | PA 1
+4 | Loops and Files | Ch. 4 | HW 2, PA 2
+5 | Methods  | Ch. 5 | 
+6 | Classes | Ch. 6 | HW 3, PA 3
+7 | Arrays and the ArrayList Class | Ch. 7 | HW 4, PA 4
+8 | Classes and Objects | Ch. 8 | HW 5
+9 | MidTerm | **Bring ScanTron** | PA 5
+10 | Text Processing  | Ch. 9 | 
+11 | Inheritance | Ch. 10 | HW 6, PA 6
+12 | Exceptions and Advanced File I/O | Ch. 11 | HW 7, PA 7
+13 | GUI Applications | Ch. 12 | HW 8, PA 8
+14 | Advanced GUI/Applets | Ch. 13, 14 | HW 9, PA 9
+15 | Project Due | Ch. 19 - 20 | HW 10, PA 10
+16 | Finals Week | | 
+ |  Final Exam Tues., Dec. 5 from 10:00 am - 11:50 am | **Bring ScanTron** | 
 
+### Read the material for the week before class
+### This syllabus is tentative and subject to change
