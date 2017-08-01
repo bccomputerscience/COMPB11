@@ -10,7 +10,7 @@ Bakersfield College
 Office: Business 1  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
-web: http://courses.eddierangel.com/bc/compb11
+Course Site: https://portal.bakersfieldcollege.edu/  
 
 
 ## Course Information
@@ -249,3 +249,4 @@ Week | Topics | Reading | Assignments
 
 ### Read the material for the week before class
 ### This syllabus is tentative and subject to change
+### Log into Canvas for course announcments and updates
