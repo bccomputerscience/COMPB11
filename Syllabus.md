@@ -18,7 +18,6 @@ Building/Room: Business 11
 Tuesday 09:35am - 11:00am        
 Thursday 09:35am - 11:00am     
 
-
 ## Office Hours
 Office: Business 1
 
