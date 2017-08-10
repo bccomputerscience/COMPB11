@@ -12,7 +12,6 @@ E-Mail: edward.rangel@bakersfieldcollege.edu
 Phone: (661) 395-4879   
 Course Site: https://portal.bakersfieldcollege.edu/  
 
-
 ## Course Information
 Building/Room: Business 11   
 Tuesday 09:35am - 11:00am        
@@ -103,14 +102,12 @@ Range (%) | grade
 80 >= | B
 70 >= | C
 60 >= | D
-60 < | F
+59 <= | F
 * Grading is not curved.  89.99 is a B.
-
 
 ## Exams, Assignments, and Late Policy 
 Make-up exams, quizzes, or any other type of assignment will not be given. Late assignments will not be accepted. Assignments are due on their assigned due date. All assignments should be submitted to Canvas. You may always submit an assignments early or arrange to take exams in advance of the scheduled times. 
 Exams and quizzes will be timed. You will not be given extra time to complete the exam or quiz if you start late.
-
 
 ## Extra Credit
 Go to a BC Library Workshop (5 pts)  
@@ -120,7 +117,6 @@ Go to a BC Library Workshop (5 pts)
 ## Habits of Mind
 Many free resources exist at BC to help you accomplish your goals. For great information on developing new 
 habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-mind).
-
 
 ## Important Dates
 Date | Event
