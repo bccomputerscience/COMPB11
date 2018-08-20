@@ -1,5 +1,5 @@
 # COMP B11 - Programming Concepts and Methodology I
-## Fall 2017 CRN: 71458
+## Fall 2018 CRN: 71026
 
 ### Eddie Rangel
 Assoc. Professor  
@@ -14,29 +14,23 @@ Course Site: https://portal.bakersfieldcollege.edu/
 
 ## Course Information
 Building/Room: Business 11   
-Tuesday 09:35am - 11:00am        
-Thursday 09:35am - 11:00am     
+Monday 06:00pm - 07:25pm         
+Wednesday 06:00pm - 07:25pm     
 
 ## Office Hours
 Office: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 11:30am – 12:30pm
-Tuesday | 1:00pm – 2:00pm
-Wednesday | 11:30am – 12:30pm
-Thursday | 1:00pm – 2:00pm
-  | 4:30pm – 5:30pm
+Monday | 11:00am – 12:00pm
+Tuesday | 11:00am – 12:00pm
+Wednesday | 11:00am – 12:00pm
+  | 3:00pm – 4:00pm
+Thursday | 11:00am – 12:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
-This course is an introduction to the discipline of computer science, with a focus on the 
-design and implementation of algorithms to solve simple problems using a high-level programming 
-language. Topics include fundamental programming constructs, problem-solving strategies, 
-debugging techniques, declaration models, and an overview of procedural and object-oriented 
-programming languages. Students will learn to design, implement, test, and debug algorithms 
-using pseudocode and a high-level programming language. Not open to students who have previously 
-received credit for COMS B14.
+This course is an introduction to the discipline of computer science, with a focus on the design and This course is an introduction to the discipline of computer science, with a focus on the design and implementation of algorithms to solve simple problems using a high-level programming language. Topics include fundamental programming constructs, problem-solving strategies, debugging techniques, declaration models, and an overview of procedural and object-oriented programming languages. Students will learn to design, implement, test, and debug algorithms using pseudocode and a high-level programming language. Not open to students who have previously received credit for COMS B14.
 
 ## Student Learning Outcomes
 Understand and know how to use fundamental programming constructs 
@@ -45,8 +39,7 @@ Understand and know how to use fundamental programming constructs
 * Design, implement, test, and debug a program that uses each of the following fundamental programming constructs: basic computation, simple I/O, standard conditional and iterative structures, and the definition of functions. 
 * Choose appropriate conditional and iteration constructs for a given programming task. 
 * Apply the techniques of structured (functional) decomposition to break a program into smaller pieces. 
-* Describe the mechanics of parameter passing. 
-* Design, implement, test, and debug simple programs in an object-oriented programming language.
+* Describe the mechanics of parameter passing. • Design, implement, test, and debug simple programs in an object-oriented programming language.
 
 Design and implement algorithms to solve problems 
 * Discuss the importance of algorithms in the problem-solving process. 
@@ -78,22 +71,19 @@ Understand and use variables and types
     * URL: https://docs.oracle.com/javase/tutorial/
 * BC Email Address   
 * Flash Drive
-* Four (4) green 100-answer test scan sheets 
+* Two (2) green 100-answer test scan sheets 
     * (FORM NO. 882-ES)
 
 ## Assignments, Quizzes and Exams
 
 Assignment | Points
 ------------ | -------------
-Project Proposal | 15
-Group Project | 25
-Programming Assignments (10 @ 20 points each) | 200
+Programming Assignments (10 @ 10 points each) | 100
 Homework Assignments (10 @ 10 points each) | 100
-In-Class Assignments (5 @ 5 points each) | 25 
-Quizzes (5 @ 5 points each) | 25 
-Midterm (25/50) | 75 
-Final Exam (25/50) | 75
-**TOTAL** | **550**
+In-Class Assignments (10 @ 10 points each) | 100 
+Midterm  | 100 
+Final Exam  | 100
+**TOTAL** | **500**
 * The number of actual assignments given may vary depending on the pace of the semester. If this occurs the points will be adjusted accordingly.
 
 Range (%) | grade 
