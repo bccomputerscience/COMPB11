@@ -118,7 +118,7 @@ Oct 19 | Last day to withdraw from a semester length class and receive a W
 Nov 12 | Veterans Day - Campus Closed 
 Nov 22 | Thanksgiving Holiday - Campus Closed 
 Nov 23 | Thanksgiving Holiday - Campus Closed 
-Dec 03 | Final Exam 6:00 PM - 7:50 PM
+Dec 05 | Final Exam 6:00 PM - 7:50 PM
 Dec 08 | End of Fall Semester
 
 ## 16 Week Semester Schedule  
@@ -140,7 +140,7 @@ Week | Topics | Reading | Assignments
 14 | Advanced GUI/Applets | Ch. 13, 14 | HW 9, PA 9
 15 | Project Due | Ch. 19 - 20 | HW 10, PA 10
 16 | Finals Week | | 
-| |  Final Exam **Tues., Dec. 5 from 10:00 am - 11:50 am** | **Bring ScanTron** | |
+| |  Final Exam **Wed., Dec. 5 from 6:00 PM - 7:50 PM** | **Bring ScanTron** | |
 
 ## Accommodations 
 Students with disabilities needing accommodation, including those who had an IEP in high school, should make requests to Disabled Students Programs and Services in CSS 10, or Delano room 1001 (661-395-4334, (661-720-2000 Delano)).  All requests for accommodations require appropriate advance notice to avoid a delay in services. Please discuss approved accommodations with me so we can work together to ensure your access and success at BC
