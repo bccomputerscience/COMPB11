@@ -25,7 +25,7 @@ Day | Time
 Monday | 11:00am – 12:00pm
 Tuesday | 11:00am – 12:00pm
 Wednesday | 11:00am – 12:00pm
-  | 3:00pm – 4:00pm
+Wednesday | 3:00pm – 4:00pm
 Thursday | 11:00am – 12:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
@@ -111,14 +111,15 @@ habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-m
 ## Important Dates
 Date | Event
 ------ | ------
-Aug 19 | Fall Semester - Instruction Begins 
-Sep 03 | Last day to drop from a semester length class without receiving a W 
-Sep 04 | Labor Day Holiday - Campus Closed
-Oct 20 | Last day to withdraw from a semester length class and receive a W 
-Nov 10 | Veterans Day - Campus Closed 
+Aug 18 | Fall Semester - Instruction Begins 
+Sep 02 | Last day to drop from a semester length class without receiving a W 
+Sep 03 | Labor Day Holiday - Campus Closed
+Oct 19 | Last day to withdraw from a semester length class and receive a W 
+Nov 12 | Veterans Day - Campus Closed 
+Nov 22 | Thanksgiving Holiday - Campus Closed 
 Nov 23 | Thanksgiving Holiday - Campus Closed 
-Nov 24 | Thanksgiving Holiday - Campus Closed 
-Dec 09 | End of Fall Semester
+Dec 03 | Final Exam 6:00 PM - 7:50 PM
+Dec 08 | End of Fall Semester
 
 ## 16 Week Semester Schedule  
 Week | Topics | Reading | Assignments
