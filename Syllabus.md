@@ -1,5 +1,5 @@
 # COMP B11 - Programming Concepts and Methodology I
-## Fall 2017 CRN: 71458
+## Fall 2018 CRN: 71026
 
 ### Eddie Rangel
 Assoc. Professor  
@@ -14,29 +14,23 @@ Course Site: https://portal.bakersfieldcollege.edu/
 
 ## Course Information
 Building/Room: Business 11   
-Tuesday 09:35am - 11:00am        
-Thursday 09:35am - 11:00am     
+Monday 06:00pm - 07:25pm         
+Wednesday 06:00pm - 07:25pm     
 
 ## Office Hours
 Office: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 11:30am – 12:30pm
-Tuesday | 1:00pm – 2:00pm
-Wednesday | 11:30am – 12:30pm
-Thursday | 1:00pm – 2:00pm
-  | 4:30pm – 5:30pm
+Monday | 11:00am – 12:00pm
+Tuesday | 11:00am – 12:00pm
+Wednesday | 11:00am – 12:00pm
+Wednesday | 3:00pm – 4:00pm
+Thursday | 11:00am – 12:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
-This course is an introduction to the discipline of computer science, with a focus on the 
-design and implementation of algorithms to solve simple problems using a high-level programming 
-language. Topics include fundamental programming constructs, problem-solving strategies, 
-debugging techniques, declaration models, and an overview of procedural and object-oriented 
-programming languages. Students will learn to design, implement, test, and debug algorithms 
-using pseudocode and a high-level programming language. Not open to students who have previously 
-received credit for COMS B14.
+This course is an introduction to the discipline of computer science, with a focus on the design and This course is an introduction to the discipline of computer science, with a focus on the design and implementation of algorithms to solve simple problems using a high-level programming language. Topics include fundamental programming constructs, problem-solving strategies, debugging techniques, declaration models, and an overview of procedural and object-oriented programming languages. Students will learn to design, implement, test, and debug algorithms using pseudocode and a high-level programming language. Not open to students who have previously received credit for COMS B14.
 
 ## Student Learning Outcomes
 Understand and know how to use fundamental programming constructs 
@@ -45,8 +39,7 @@ Understand and know how to use fundamental programming constructs
 * Design, implement, test, and debug a program that uses each of the following fundamental programming constructs: basic computation, simple I/O, standard conditional and iterative structures, and the definition of functions. 
 * Choose appropriate conditional and iteration constructs for a given programming task. 
 * Apply the techniques of structured (functional) decomposition to break a program into smaller pieces. 
-* Describe the mechanics of parameter passing. 
-* Design, implement, test, and debug simple programs in an object-oriented programming language.
+* Describe the mechanics of parameter passing. • Design, implement, test, and debug simple programs in an object-oriented programming language.
 
 Design and implement algorithms to solve problems 
 * Discuss the importance of algorithms in the problem-solving process. 
@@ -78,22 +71,19 @@ Understand and use variables and types
     * URL: https://docs.oracle.com/javase/tutorial/
 * BC Email Address   
 * Flash Drive
-* Four (4) green 100-answer test scan sheets 
+* Two (2) green 100-answer test scan sheets 
     * (FORM NO. 882-ES)
 
 ## Assignments, Quizzes and Exams
 
 Assignment | Points
 ------------ | -------------
-Project Proposal | 15
-Group Project | 25
-Programming Assignments (10 @ 20 points each) | 200
+Programming Assignments (10 @ 10 points each) | 100
 Homework Assignments (10 @ 10 points each) | 100
-In-Class Assignments (5 @ 5 points each) | 25 
-Quizzes (5 @ 5 points each) | 25 
-Midterm (25/50) | 75 
-Final Exam (25/50) | 75
-**TOTAL** | **550**
+In-Class Assignments (10 @ 10 points each) | 100 
+Midterm  | 100 
+Final Exam  | 100
+**TOTAL** | **500**
 * The number of actual assignments given may vary depending on the pace of the semester. If this occurs the points will be adjusted accordingly.
 
 Range (%) | grade 
@@ -121,14 +111,15 @@ habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-m
 ## Important Dates
 Date | Event
 ------ | ------
-Aug 19 | Fall Semester - Instruction Begins 
-Sep 03 | Last day to drop from a semester length class without receiving a W 
-Sep 04 | Labor Day Holiday - Campus Closed
-Oct 20 | Last day to withdraw from a semester length class and receive a W 
-Nov 10 | Veterans Day - Campus Closed 
+Aug 18 | Fall Semester - Instruction Begins 
+Sep 02 | Last day to drop from a semester length class without receiving a W 
+Sep 03 | Labor Day Holiday - Campus Closed
+Oct 19 | Last day to withdraw from a semester length class and receive a W 
+Nov 12 | Veterans Day - Campus Closed 
+Nov 22 | Thanksgiving Holiday - Campus Closed 
 Nov 23 | Thanksgiving Holiday - Campus Closed 
-Nov 24 | Thanksgiving Holiday - Campus Closed 
-Dec 09 | End of Fall Semester
+Dec 05 | Final Exam 6:00 PM - 7:50 PM
+Dec 08 | End of Fall Semester
 
 ## 16 Week Semester Schedule  
 Week | Topics | Reading | Assignments
@@ -149,10 +140,11 @@ Week | Topics | Reading | Assignments
 14 | Advanced GUI/Applets | Ch. 13, 14 | HW 9, PA 9
 15 | Project Due | Ch. 19 - 20 | HW 10, PA 10
 16 | Finals Week | | 
-| |  Final Exam **Tues., Dec. 5 from 10:00 am - 11:50 am** | **Bring ScanTron** | |
+| |  Final Exam **Wed., Dec. 5 from 6:00 PM - 7:50 PM** | **Bring ScanTron** | |
 
 ## Accommodations 
-Students with disabilities needing accommodation, including those who had an IEP in high school, should make requests to Disabled Students Programs and Services in CSS 10, or Delano room 1001 (661-395-4334, (661-720-2000 Delano)).  All requests for accommodations require appropriate advance notice to avoid a delay in services. Please discuss approved accommodations with me so we can work together to ensure your access and success at BC
+*  Students with disabilities needing accommodation, including those who had an IEP in high school, should make requests to Disabled Students Programs and Services in CSS 10, or Delano room 1001 (661-395-4334, (661-720-2000 Delano)).  All requests for accommodations require appropriate advance notice to avoid a delay in services. Please discuss approved accommodations with me so we can work together to ensure your access and success at BC
+*	Estudiantes con discapacidades que necesitan  alojamiento, incluyendo aquellos que tienen IPE en preparatoria, tienen que hacer una solicitud a los programas de estudiantes con discapacidades (Disabled Students Programs and Services) en CSS 10, o al salon de Delano #1001 (661-395-4334) o (661-720-2000 Delano).  Todas las solicitudes para alojamiento requieren de aviso previo para evitar retrasos en los servicios. Favor de hablar conmigo sobre el alojamiento aprobado para asegurar tu acceso y exito en BC.
 
 ## Attendance
 Attendance is mandatory. The school policy allows up to 2 weeks of absences before I am required to drop you. If you are tardy, you will be assessed an absences for every 2 tardies. The attendance policy as outlined in the campus catalog. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in the colleges academic calendar under [Important Dates](https://www.bakersfieldcollege.edu/important-dates). It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, may be marked absent upon their early departure.
